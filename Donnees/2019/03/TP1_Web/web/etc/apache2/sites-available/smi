@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+    DocumentRoot /var/www/smi
+    ServerName  etudiants-smi.ma
+    ServerAlias www.etudiants-smi.ma
+</VirtualHost>

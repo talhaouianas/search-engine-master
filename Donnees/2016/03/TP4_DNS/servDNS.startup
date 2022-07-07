@@ -1,0 +1,4 @@
+ifconfig eth0 192.168.1.1 up
+
+#Démarrage de BING
+/etc/init.d/bind9 start

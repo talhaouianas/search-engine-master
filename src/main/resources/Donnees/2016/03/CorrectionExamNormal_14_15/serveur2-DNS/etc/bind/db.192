@@ -1,0 +1,15 @@
+;
+; Fichier BIND inverse pour le réseau local 192.168.1.0
+;
+$TTL	604800
+@	IN	SOA	smi6.net. dns.smi6.net. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	dns.
+2	IN	PTR	dns.smi6.net.
+3	IN	PTR	www.smi6.net.
+1	IN	PTR	dhcp.smi6.net.

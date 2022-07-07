@@ -1,0 +1,9 @@
+zone "smi.ma" {
+        type master;
+        file "/etc/bind/db.smi.ma";
+};
+
+zone "1.168.192.in-addr.arpa" {
+	type master;
+	file "/etc/bind/db.192";
+};

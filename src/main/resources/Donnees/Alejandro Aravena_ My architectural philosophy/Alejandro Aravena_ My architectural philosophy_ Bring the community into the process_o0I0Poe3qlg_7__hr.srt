@@ -1,0 +1,1394 @@
+﻿1
+00:00:00,000 --> 00:00:12,000
+Prevoditelj: Marin Holi
+Recezent: Ivan Stamenkovic
+
+2
+00:00:12,724 --> 00:00:14,406
+Ako dizajn ima kakav utjecaj,
+
+3
+00:00:16,088 --> 00:00:17,771
+onda je to moć sinteze.
+
+4
+00:00:17,771 --> 00:00:19,466
+Što je kompleksniji problem,
+
+5
+00:00:19,466 --> 00:00:21,967
+to je potreba za jednostavnošću veća.
+
+6
+00:00:21,966 --> 00:00:24,303
+Zato dopustite da podjelim tri slučaja
+
+7
+00:00:24,303 --> 00:00:26,113
+u kojima smo pokušali primjeniti
+
+8
+00:00:26,114 --> 00:00:29,117
+dizajnersku moć sinteze.
+
+9
+00:00:29,117 --> 00:00:33,218
+Počnimo s globalnim izazovom urbanizacije.
+
+10
+00:00:33,218 --> 00:00:36,896
+Činjenica je da se ljudi sele u gradove
+
+11
+00:00:36,896 --> 00:00:40,361
+i čak iako protiv intuicije,
+to je dobra vijest.
+
+12
+00:00:40,360 --> 00:00:44,443
+Dokazi pokazuju da je ljudima bolje
+u gradovima.
+
+13
+00:00:44,444 --> 00:00:46,593
+Ali postoji problem kojeg bi nazvao
+
+14
+00:00:46,593 --> 00:00:48,899
+problem "3S" opasnost:
+
+15
+00:00:48,899 --> 00:00:51,631
+mjera (scale), brzina (speed)
+i nedostatak sredstava (scarcity)
+
+16
+00:00:51,631 --> 00:00:54,826
+s kojima ćemo morati odgovoriti na
+taj fenomen
+
+17
+00:00:54,826 --> 00:00:57,464
+nije zabilježen u povijesti.
+
+18
+00:00:57,465 --> 00:00:58,654
+Za vas da bi imali ideju,
+
+19
+00:00:58,654 --> 00:01:01,880
+od tri miljarde ljudi koji danas
+žive u gradovima,
+
+20
+00:01:01,880 --> 00:01:05,271
+jedna miljarda su ispod linije siromaštva.
+
+21
+00:01:05,271 --> 00:01:09,210
+Do 2030, od pet miljardi ljudi
+
+22
+00:01:09,209 --> 00:01:11,479
+koji će živjeti u gradovima,
+
+23
+00:01:11,480 --> 00:01:14,837
+dvije miljarde će biti ispod
+linije siromaštva.
+
+24
+00:01:14,837 --> 00:01:19,266
+To znači da ćemo morati izgraditi
+
+25
+00:01:21,605 --> 00:01:28,445
+jedan milijunski grad tjedno
+
+26
+00:01:30,114 --> 00:01:35,671
+s 10,000 dolara po obitelji
+
+27
+00:01:35,671 --> 00:01:37,481
+sljedećih 15 godina.
+
+28
+00:01:37,481 --> 00:01:40,206
+Jedno-milijunski grad tjedno
+
+29
+00:01:40,206 --> 00:01:42,329
+s 10,000 dolara po obitelji.
+
+30
+00:01:42,329 --> 00:01:43,995
+Ako ne riješimo tu jednadžbu,
+
+31
+00:01:43,995 --> 00:01:46,043
+nije da će ljudi prestati
+dolaziti u gradove.
+
+32
+00:01:46,043 --> 00:01:47,952
+Dolaziti će svejedno,
+
+33
+00:01:47,951 --> 00:01:50,957
+ali živjeti će u slamovima, favelama
+
+34
+00:01:50,957 --> 00:01:52,367
+i nepropisnim nastambama.
+
+35
+00:01:52,367 --> 00:01:55,245
+Što učiniti? Dakle, odgovor bi mogao doći
+
+36
+00:01:55,245 --> 00:01:59,839
+iz samih favela i slamova.
+
+37
+00:01:59,840 --> 00:02:03,433
+Trag bi mogao biti u pitanju koje nam
+je bilo postavljeno
+
+38
+00:02:03,433 --> 00:02:04,890
+prije 10 godina.
+
+39
+00:02:04,890 --> 00:02:08,520
+Pitali su nas da smjestimo 100 obitelji
+
+40
+00:02:08,520 --> 00:02:10,938
+koje su ilegalno nastanjivale
+
+41
+00:02:10,938 --> 00:02:13,233
+pola hektra u centru
+
+42
+00:02:13,234 --> 00:02:16,134
+grada Iquique u sjevernom Čileu
+
+43
+00:02:16,133 --> 00:02:19,061
+koristeći 10,000 dolara subvencije
+
+44
+00:02:19,062 --> 00:02:22,176
+s kojima smo morali kupiti zemljište,
+
+45
+00:02:22,175 --> 00:02:23,908
+pobrinuti se oko infrastrukture,
+
+46
+00:02:23,908 --> 00:02:27,229
+i izgraditi kuće koje će,
+u najboljem slučaju,
+
+47
+00:02:27,229 --> 00:02:30,893
+biti oko 40 kvadratnih metara.
+
+48
+00:02:30,894 --> 00:02:33,099
+A usput su nam rekli
+
+49
+00:02:33,098 --> 00:02:34,750
+da je cijena zemljišta,
+
+50
+00:02:34,750 --> 00:02:36,806
+jer je u centru grada,
+
+51
+00:02:36,806 --> 00:02:38,550
+tri puta veća
+
+52
+00:02:38,550 --> 00:02:42,108
+nego što si socijalno stanovanje
+može priuštiti.
+
+53
+00:02:42,108 --> 00:02:44,334
+Zbog težine pitanja,
+
+54
+00:02:44,334 --> 00:02:46,515
+odlučili smo se da uključimo obitelji
+
+55
+00:02:46,515 --> 00:02:50,611
+u proces shvaćanja ograničenja,
+
+56
+00:02:50,611 --> 00:02:53,192
+i počeli smo proces participarnog dizajna,
+
+57
+00:02:53,193 --> 00:02:56,840
+te testiranja onog što je bilo ponuđeno
+na tržištu.
+
+58
+00:02:56,840 --> 00:02:58,538
+Samostojeće kuće,
+
+59
+00:02:58,538 --> 00:03:01,493
+30 obitelji bi moglo biti smješteno.
+
+60
+00:03:01,493 --> 00:03:05,455
+Kuće u nizu, 60 obitelji.
+
+61
+00:03:05,455 --> 00:03:08,597
+["100 obitelji"]
+Jedini način da se svi smjeste
+
+62
+00:03:08,598 --> 00:03:10,920
+je bila gradnja u visinu,
+
+63
+00:03:10,919 --> 00:03:12,551
+i prijetili su nam
+
+64
+00:03:12,551 --> 00:03:14,859
+štrajkom glađu
+
+65
+00:03:14,860 --> 00:03:17,158
+ako se usudimo to ponuditi
+
+66
+00:03:17,157 --> 00:03:18,583
+kao rješenje,
+
+67
+00:03:18,584 --> 00:03:21,655
+jer nisu mogli te male stanove
+
+68
+00:03:21,655 --> 00:03:23,109
+proširiti.
+
+69
+00:03:23,109 --> 00:03:25,798
+Dakle zaključak s obiteljima --
+
+70
+00:03:25,798 --> 00:03:27,675
+i to je važno,
+ne naš zaključak --
+
+71
+00:03:27,675 --> 00:03:30,206
+s obiteljima, je da imamo problem.
+
+72
+00:03:30,206 --> 00:03:31,944
+Morali smo inovirati.
+
+73
+00:03:31,944 --> 00:03:34,610
+Što smo učinili?
+
+74
+00:03:35,719 --> 00:03:39,618
+Dakle, obitelj srednje klase
+
+75
+00:03:39,618 --> 00:03:42,498
+živi razumno dobro
+
+76
+00:03:42,498 --> 00:03:44,849
+u oko 80 kvadratnih metara,
+
+77
+00:03:44,849 --> 00:03:46,521
+ali kad nema novca,
+
+78
+00:03:46,521 --> 00:03:47,864
+što tržište učini
+
+79
+00:03:47,864 --> 00:03:52,122
+je da se veličina kuće smanji
+
+80
+00:03:52,122 --> 00:03:54,971
+na 40 kvadrata.
+
+81
+00:03:54,971 --> 00:03:56,718
+Ono što smo mi rekli,
+
+82
+00:03:56,718 --> 00:03:59,239
+što ako,
+
+83
+00:04:00,844 --> 00:04:05,377
+umjesto razmišljanja o 40 kvadrata
+
+84
+00:04:05,377 --> 00:04:08,058
+kao maloj kući,
+
+85
+00:04:08,058 --> 00:04:10,384
+zašto ju ne bi smatrali
+
+86
+00:04:10,384 --> 00:04:13,191
+kao pola dobre kuće?
+
+87
+00:04:13,191 --> 00:04:14,957
+Kad preformuliramo problem
+
+88
+00:04:14,957 --> 00:04:17,663
+kao pola dobre kuće
+
+89
+00:04:17,663 --> 00:04:19,298
+umjesto male kuće,
+
+90
+00:04:19,298 --> 00:04:22,507
+ključno pitanje je, koju polovicu ćemo
+izgraditi?
+
+91
+00:04:22,507 --> 00:04:25,209
+I smatrali smo da moramo učiniti
+s javnim novcem
+
+92
+00:04:25,209 --> 00:04:30,618
+onu polovicu koju obitelji neće
+moći napravit individualno.
+
+93
+00:04:30,619 --> 00:04:33,147
+Odredili smo pet konstrukcijskih uvjeta
+
+94
+00:04:33,146 --> 00:04:35,504
+koji su pripadali teškom dijelu kuće,
+
+95
+00:04:35,504 --> 00:04:38,600
+i vratili se obiteljima s dvije stvari:
+
+96
+00:04:38,600 --> 00:04:42,600
+ujediniti snage i podjeliti poslove.
+
+97
+00:04:42,600 --> 00:04:45,584
+Naš plan je bio nešto između
+
+98
+00:04:45,584 --> 00:04:48,264
+zgrade i kuće.
+
+99
+00:04:48,264 --> 00:04:50,356
+Kao zgrada, mogla bi pokrit troškove
+
+100
+00:04:50,357 --> 00:04:53,349
+skupog, dobro lociranog zemljišta,
+
+101
+00:04:53,348 --> 00:04:56,969
+a kao kuća, mogla bi se širiti.
+
+102
+00:04:56,970 --> 00:04:59,554
+Ako, u procesu u kojem neće biti potisnute
+
+103
+00:04:59,553 --> 00:05:01,919
+na periferiju za vrijeme dobivanja kuće,
+
+104
+00:05:01,920 --> 00:05:04,733
+obitelji zadrže svoju mrežu i posao,
+
+105
+00:05:04,733 --> 00:05:08,980
+znali smo da će proširenje
+početi odmah.
+
+106
+00:05:08,980 --> 00:05:13,536
+Znači, došli smo s inicijalnog
+socijalnog smještaja
+
+107
+00:05:13,536 --> 00:05:17,930
+na jedinicu srednje klase postignuto
+samim obiteljima
+
+108
+00:05:17,930 --> 00:05:20,665
+unutar nekoliko tjedana.
+
+109
+00:05:20,665 --> 00:05:22,439
+To je bio naš prvi projekt
+
+110
+00:05:22,439 --> 00:05:24,766
+u Iquique prije 10 godina.
+
+111
+00:05:24,766 --> 00:05:28,242
+Ovo je naš zadnji projekt u Čileu.
+
+112
+00:05:28,242 --> 00:05:31,194
+Različiti dizjni, isti princip:
+
+113
+00:05:31,194 --> 00:05:32,759
+Pripremite okvir,
+
+114
+00:05:32,759 --> 00:05:36,598
+i od tad pa na dalje, preuzmu obitelji.
+
+115
+00:05:36,598 --> 00:05:40,698
+Svrha dizajna,
+
+116
+00:05:40,697 --> 00:05:43,707
+pokušati razumjeti i dati odgovor
+
+117
+00:05:43,708 --> 00:05:45,360
+na "3S" opasnost,
+
+118
+00:05:45,360 --> 00:05:46,826
+mjera, brzina, i nedostatak sredstava,
+
+119
+00:05:46,826 --> 00:05:50,309
+je kanaliziranje ljudskog
+vlastitog gradbenog kapaciteta.
+
+120
+00:05:50,309 --> 00:05:54,713
+Nećemo riješiti jedan milijun ljudi
+tjedno jednadžbu
+
+121
+00:05:54,713 --> 00:05:59,399
+ako ne iskoristimo vlastitu moć ljudi
+za izgradnjom.
+
+122
+00:05:59,399 --> 00:06:01,634
+Dakle, s pravilnim dizajnom,
+
+123
+00:06:01,634 --> 00:06:05,035
+slamovi i favele možda nisu problem
+
+124
+00:06:05,035 --> 00:06:08,784
+već jedino moguće rješenje.
+
+125
+00:06:08,783 --> 00:06:11,819
+Drugi slučaj je kako dizajn može doprinjeti
+
+126
+00:06:11,819 --> 00:06:13,871
+održivosti.
+
+127
+00:06:13,870 --> 00:06:16,263
+U 2012., uključili smo se u natječaj
+
+128
+00:06:16,264 --> 00:06:18,829
+za Centar Inovativnosti Angelini,
+
+129
+00:06:18,829 --> 00:06:20,841
+i cilj je bio izgraditi
+
+130
+00:06:20,841 --> 00:06:25,175
+pogodnu okolinu za stvaranje znanja.
+
+131
+00:06:25,175 --> 00:06:27,659
+Prihvaćeno je da za takvu svrhu,
+
+132
+00:06:27,660 --> 00:06:29,196
+stvaranje znanja,
+
+133
+00:06:29,196 --> 00:06:31,783
+interakcija između ljudi,
+kontakt lice u lice,
+
+134
+00:06:31,783 --> 00:06:33,980
+je važan, i tu smo se složili.
+
+135
+00:06:33,980 --> 00:06:37,556
+Ali za nas, pitanje
+odgovarajuće okoline
+
+136
+00:06:37,555 --> 00:06:39,721
+je bilo doslovno pitanje.
+
+137
+00:06:39,721 --> 00:06:41,841
+Htjeli smo imati radni prostor
+
+138
+00:06:41,841 --> 00:06:44,594
+s odgovarajučom rasvjetom, temperaturom
+
+139
+00:06:44,595 --> 00:06:46,477
+i odgovarajučim zrakom.
+
+140
+00:06:46,476 --> 00:06:48,554
+Pitali smo se:
+
+141
+00:06:48,555 --> 00:06:51,144
+Da li nam tipična poslovna zgrada
+
+142
+00:06:51,144 --> 00:06:53,255
+pomaže u tom smislu?
+
+143
+00:06:53,255 --> 00:06:56,869
+Dakle, kako ta zgrada tipično izgleda?
+
+144
+00:06:56,870 --> 00:06:59,454
+To je kolekcija katova,
+
+145
+00:06:59,454 --> 00:07:01,360
+jedan na drugome,
+
+146
+00:07:01,360 --> 00:07:04,401
+s jezgrom u centru
+
+147
+00:07:04,401 --> 00:07:09,090
+s dizalima, stepenicama,
+cjevima, žicama, svime,
+
+148
+00:07:09,089 --> 00:07:12,676
+i onda staklena "koža" izvana
+
+149
+00:07:12,677 --> 00:07:16,552
+koja, zbog direktne radijacije sunca,
+
+150
+00:07:16,552 --> 00:07:21,761
+stvara ogroman efekt staklenika iznutra.
+
+151
+00:07:21,761 --> 00:07:23,695
+Uz to, recimo čovjek
+
+152
+00:07:23,694 --> 00:07:25,430
+koji radi na sedmom katu
+
+153
+00:07:25,430 --> 00:07:28,141
+prolazi svaki dan trećim katom,
+
+154
+00:07:28,141 --> 00:07:31,180
+ali nezna što čovjek na tom katu
+
+155
+00:07:31,180 --> 00:07:32,908
+radi.
+
+156
+00:07:32,908 --> 00:07:36,305
+Mislil smo, dakle, možda moramo tu shemu
+izokrenuti
+
+157
+00:07:36,305 --> 00:07:38,105
+naglavačke.
+
+158
+00:07:38,105 --> 00:07:39,927
+I ono što smo učinili je,
+
+159
+00:07:39,927 --> 00:07:44,110
+imat ćemo otvoren atrij,
+
+160
+00:07:44,110 --> 00:07:45,999
+šuplju jezgru,
+
+161
+00:07:45,999 --> 00:07:47,612
+istu kolekciju katova,
+
+162
+00:07:47,612 --> 00:07:52,052
+ali imat ćemo zidove
+i masu na vanjskom rubu,
+
+163
+00:07:52,052 --> 00:07:56,317
+da kada sunce udari,
+
+164
+00:07:56,317 --> 00:08:02,444
+ne utječe direktno na staklo nego na zid.
+
+165
+00:08:02,444 --> 00:08:05,181
+Kada imate otvoren atrij iznutra,
+
+166
+00:08:05,180 --> 00:08:07,329
+u mogućnosti ste vidjeti što ostali rade
+
+167
+00:08:07,329 --> 00:08:09,180
+iz unutrašnjosti zgrade, i imate
+
+168
+00:08:09,180 --> 00:08:11,379
+bolji način kontrole svjetlosti,
+
+169
+00:08:11,379 --> 00:08:14,783
+te kad su zidovi i masa
+
+170
+00:08:14,783 --> 00:08:16,439
+na vanjskom rubu,
+
+171
+00:08:16,439 --> 00:08:19,872
+tada spriječavate
+direktnu sunčevu radijaciju.
+
+172
+00:08:19,872 --> 00:08:21,792
+Isto taka možete otvoriti te prozore
+
+173
+00:08:21,791 --> 00:08:24,687
+i dobiti unakrsnu ventilaciju.
+
+174
+00:08:24,687 --> 00:08:27,622
+Napravili smo te otvore
+
+175
+00:08:27,622 --> 00:08:29,714
+u takvim razmjerima da mogu služiti
+
+176
+00:08:29,714 --> 00:08:31,727
+kao povišeni trgovi,
+
+177
+00:08:31,728 --> 00:08:33,471
+vanjski prostori kroz
+
+178
+00:08:33,471 --> 00:08:37,134
+cjelu visinu zgrade.
+
+179
+00:08:37,134 --> 00:08:38,984
+Ništa od toga nije raketna znanost.
+
+180
+00:08:38,984 --> 00:08:41,682
+Ne trebate sofisticirano programiranje.
+
+181
+00:08:41,682 --> 00:08:43,415
+Nije stvar tehnologije.
+
+182
+00:08:43,416 --> 00:08:48,838
+To je samo arhaičan,
+primitivan zdrav razum,
+
+183
+00:08:48,837 --> 00:08:50,805
+i koristeći zdrav razum,
+
+184
+00:08:50,806 --> 00:08:53,787
+stigli smo s 120 kilowatta
+
+185
+00:08:53,787 --> 00:08:56,127
+po metru kvadratnom godišnje,
+
+186
+00:08:56,126 --> 00:08:58,298
+što je tipična potrošnja energije
+
+187
+00:08:58,298 --> 00:09:00,289
+za hlađenje staklenog tornja,
+
+188
+00:09:00,289 --> 00:09:04,620
+na 40 kilowatta po metru kvadratnom
+godišnje.
+
+189
+00:09:04,620 --> 00:09:06,897
+Stoga s odgovarajučim dizajnom,
+
+190
+00:09:06,897 --> 00:09:09,441
+održivost je ništa
+doli rigorozno korištenje
+
+191
+00:09:09,441 --> 00:09:13,173
+zdravog razuma.
+
+192
+00:09:13,173 --> 00:09:16,146
+Zadnji slučaj koji bi htio podjeliti
+je kako dizajn
+
+193
+00:09:16,147 --> 00:09:18,442
+može dati najopsežnije odgovore
+
+194
+00:09:18,442 --> 00:09:20,830
+protiv prirodnih katastrofa.
+
+195
+00:09:20,830 --> 00:09:23,895
+Znate da je Čile, u 2010,
+
+196
+00:09:23,894 --> 00:09:27,699
+bio pogođen s 8.8 po Richterovoj skali jakim
+
+197
+00:09:27,700 --> 00:09:29,823
+potresom i tsunamijem,
+
+198
+00:09:29,822 --> 00:09:31,697
+i mi smo bili pozvani da radimo
+
+199
+00:09:31,697 --> 00:09:33,939
+u rekonstrukciji Constituciona,
+
+200
+00:09:33,940 --> 00:09:35,850
+u južnom dijelu zemlje.
+
+201
+00:09:35,850 --> 00:09:39,346
+Dobili smo 100 dana, tri mjeseca,
+
+202
+00:09:39,346 --> 00:09:41,263
+da napravimo plan za gotovo sve,
+
+203
+00:09:41,263 --> 00:09:43,580
+od javnih zgrada do javnog prostora,
+
+204
+00:09:43,580 --> 00:09:45,670
+cestovnih mreža, prijevoza, stanovanja,
+
+205
+00:09:45,669 --> 00:09:48,423
+i uglavnom kako zaštiti grad
+
+206
+00:09:48,423 --> 00:09:50,678
+od budućih tsunamija.
+
+207
+00:09:50,678 --> 00:09:53,828
+To je bilo novo u čilenskom
+urabanom planiranju,
+
+208
+00:09:53,828 --> 00:09:57,201
+i bilo je u zraku nekoliko alternativa.
+
+209
+00:09:57,201 --> 00:09:58,453
+Prva:
+
+210
+00:09:58,453 --> 00:10:01,102
+Zabraniti radove na nultoj točki.
+
+211
+00:10:01,102 --> 00:10:03,139
+Trideset milijuna dolara
+potrošeno pretežno
+
+212
+00:10:03,139 --> 00:10:05,524
+na izvlaštenje zemljišta.
+
+213
+00:10:05,524 --> 00:10:08,785
+To je točno o čemu se
+ovih dana raspravlja u Japanu,
+
+214
+00:10:08,785 --> 00:10:10,832
+i ako imate discipliniranu populaciju
+
+215
+00:10:10,832 --> 00:10:13,173
+kao u Japanu, to može funkcionirati,
+
+216
+00:10:13,173 --> 00:10:14,658
+ali znamo da će u Čileu,
+
+217
+00:10:14,658 --> 00:10:18,471
+ta zemlja svejedno biti okupirana ilegalno,
+
+218
+00:10:18,471 --> 00:10:22,543
+dakle ta alternativa
+je bila nerealna i nepoželjna.
+
+219
+00:10:22,543 --> 00:10:25,936
+Druga alternativa: izgraditi veliki zid,
+
+220
+00:10:25,936 --> 00:10:28,253
+teška infrastruktura za opiranje
+
+221
+00:10:28,253 --> 00:10:30,195
+energije valova.
+
+222
+00:10:30,195 --> 00:10:32,314
+Ova alternativa je bila lobirana
+od strane
+
+223
+00:10:32,313 --> 00:10:33,674
+velikih građevinskih tvrtki,
+
+224
+00:10:33,674 --> 00:10:37,881
+jer je to značilo 42 milijuna dolara
+ugovora,
+
+225
+00:10:37,881 --> 00:10:40,234
+i bila je isto tako politički preferirana,
+
+226
+00:10:40,235 --> 00:10:44,226
+jer nije trebalo izvlašćivanje zemljišta.
+
+227
+00:10:44,226 --> 00:10:46,976
+Ali Japan je dokazao da pokušaj opiranja
+
+228
+00:10:46,976 --> 00:10:50,289
+snagama prirode je beskoristan.
+
+229
+00:10:50,289 --> 00:10:53,653
+Stoga je ova alternativa bila neodgovorna.
+
+230
+00:10:53,653 --> 00:10:55,747
+Kao i kod procesa smještaja,
+
+231
+00:10:55,746 --> 00:10:57,623
+morali smo uključiti zajednicu
+
+232
+00:10:57,624 --> 00:11:00,971
+u način traženja rješenja za to,
+
+233
+00:11:00,971 --> 00:11:04,144
+i počeli smo
+proces participarnog dizajniranja.
+
+234
+00:11:04,144 --> 00:11:06,415
+(Video)[Na španjolskom] Razglas:
+Kakav grad želite?
+
+235
+00:11:06,416 --> 00:11:07,958
+Glasajte za Constitucion.
+
+236
+00:11:07,957 --> 00:11:10,262
+Idite u Otvorenu Kuću i izrazite
+svoje mišljenje.
+
+237
+00:11:10,263 --> 00:11:12,436
+Sudjelujte!
+
+238
+00:11:12,436 --> 00:11:14,509
+Ribar: Ja sam ribar.
+
+239
+00:11:14,509 --> 00:11:16,619
+Dvadeset pet ribara radi za mene.
+
+240
+00:11:16,619 --> 00:11:18,958
+Gdje da ih povedem? U Šumu?
+
+241
+00:11:18,957 --> 00:11:22,342
+Muškarac: Zašto ne možemo imati betonsku
+zaštitu?
+
+242
+00:11:22,342 --> 00:11:24,250
+Napravljenu kako treba, naravno.
+
+243
+00:11:24,250 --> 00:11:26,140
+Muškarac 2: Ja sam povijest Constituciona.
+
+244
+00:11:26,140 --> 00:11:30,100
+I vi ste došli ovdje da bi mi rekli da ne
+mogu ovdje nastaviti živjeti?
+
+245
+00:11:30,100 --> 00:11:32,298
+Moja cjela obitelj je živjela ovdje,
+
+246
+00:11:32,298 --> 00:11:33,770
+ovdje sam odgojio svoju djecu,
+
+247
+00:11:33,770 --> 00:11:35,855
+i moja djeca će isto tako podići
+svoju djecu ovdje,
+
+248
+00:11:35,855 --> 00:11:38,364
+i moji unuci
+i svi ostali tako.
+
+249
+00:11:38,364 --> 00:11:40,889
+Zašto to namećete meni?
+
+250
+00:11:40,889 --> 00:11:42,766
+Vi! Vi to namećete meni!
+
+251
+00:11:42,767 --> 00:11:44,558
+U opasnoj zoni nisam ovlašten da gradim.
+
+252
+00:11:44,557 --> 00:11:46,144
+On sam to govori.
+
+253
+00:11:46,144 --> 00:11:48,230
+Muškarac 3: Ne, ne, ne, Nieves...
+
+254
+00:11:50,940 --> 00:11:53,228
+Alejandro Aravena: Neznam ako ste mogli
+
+255
+00:11:53,227 --> 00:11:55,512
+pročitati podnaslove, ali možete reći
+
+256
+00:11:55,513 --> 00:11:57,157
+po govoru tijela
+
+257
+00:11:57,157 --> 00:11:58,435
+da participirajući dizajn
+
+258
+00:11:58,434 --> 00:12:00,758
+nije hippie, romantična,
+
+259
+00:12:00,759 --> 00:12:04,009
+idemo svi sanjati zajedno o budućnosti
+grada
+
+260
+00:12:04,009 --> 00:12:06,076
+vrsta stvari.
+
+261
+00:12:06,076 --> 00:12:09,570
+To je zapravo -- (Pljesak)
+
+262
+00:12:09,570 --> 00:12:11,970
+To zapravo nije ni s obiteljima
+
+263
+00:12:11,970 --> 00:12:15,016
+pokušaj pronalaženja pravog odgovora.
+
+264
+00:12:15,015 --> 00:12:17,828
+To je uglavnom pokušaj preciznog
+identificiranja
+
+265
+00:12:17,828 --> 00:12:19,899
+pravog pitanja.
+
+266
+00:12:19,899 --> 00:12:21,986
+Nema ništa gore od dobrog odgovora
+
+267
+00:12:21,986 --> 00:12:24,091
+na krivo pitanje.
+
+268
+00:12:24,091 --> 00:12:27,409
+Dakle bilo je prilično jasno
+nakon ovog procesa
+
+269
+00:12:27,409 --> 00:12:30,940
+ili se moramo povući
+
+270
+00:12:30,941 --> 00:12:33,517
+i otići jer je prenapeto,
+
+271
+00:12:33,517 --> 00:12:35,543
+ili ići korak dalje i pitati,
+
+272
+00:12:35,543 --> 00:12:36,937
+što ih još smeta?
+
+273
+00:12:36,937 --> 00:12:38,691
+Koje još probleme imate
+
+274
+00:12:38,691 --> 00:12:41,273
+i želite da se srede
+sad kad će grad
+
+275
+00:12:41,273 --> 00:12:45,595
+biti osmišljen ispočetka?
+
+276
+00:12:45,595 --> 00:12:47,791
+I ono što su rekli bilo je,
+
+277
+00:12:47,791 --> 00:12:50,576
+gledajte, dobro je zaštiti grad od
+budućih tsunamija,
+
+278
+00:12:50,576 --> 00:12:55,333
+stvarno smo zahvalni, ali sljedeći će doći
+za, koliko, 20 godina?
+
+279
+00:12:55,333 --> 00:12:57,426
+Ali svake godine, mi imamo problema
+
+280
+00:12:57,427 --> 00:13:00,290
+s poplavama zbog kiša.
+
+281
+00:13:00,289 --> 00:13:02,490
+Uz to, mi smo usred
+
+282
+00:13:02,490 --> 00:13:04,288
+šumske regije zemlje,
+
+283
+00:13:04,288 --> 00:13:07,109
+a naši javni prostori su jadni.
+
+284
+00:13:07,109 --> 00:13:10,900
+Siromašno je i oskudno.
+
+285
+00:13:10,899 --> 00:13:13,483
+I porijeklo grada, naš identitet,
+
+286
+00:13:13,484 --> 00:13:16,370
+nije zapravo povezan sa srušenim zgradama,
+
+287
+00:13:16,370 --> 00:13:17,984
+povezan je s rijekom,
+
+288
+00:13:17,984 --> 00:13:20,798
+ali rijeka je javno nedostupna,
+
+289
+00:13:20,798 --> 00:13:24,500
+jer je obala u privatnom vlasništvu
+
+290
+00:13:24,500 --> 00:13:29,302
+Stoga smo razmišljali da moramo
+stvoriti treću alternativu,
+
+291
+00:13:29,302 --> 00:13:33,846
+i naš pristup bio je protiv geografskih
+prijetnji,
+
+292
+00:13:33,846 --> 00:13:37,466
+imati geografske odgovore.
+
+293
+00:13:37,466 --> 00:13:41,254
+Što ako, između grada
+
+294
+00:13:43,600 --> 00:13:45,983
+i mora
+
+295
+00:13:48,590 --> 00:13:51,768
+imamo šumu,
+
+296
+00:13:51,768 --> 00:13:54,354
+šumu koja se ne pokušava oduprijeti
+
+297
+00:13:54,354 --> 00:13:56,211
+snazi prirode,
+
+298
+00:13:56,211 --> 00:14:00,270
+već ju troši uvođenjem trenja?
+
+299
+00:14:00,270 --> 00:14:04,163
+Šuma koja bi mogla upijati vodu
+
+300
+00:14:04,163 --> 00:14:06,514
+i spriječiti poplave?
+
+301
+00:14:06,514 --> 00:14:11,598
+To bi moglo platiti povijesne dugove
+javnih prostora,
+
+302
+00:14:11,599 --> 00:14:14,242
+i na kraju osigurati
+
+303
+00:14:14,241 --> 00:14:16,659
+demokratski pristup rijeci.
+
+304
+00:14:16,659 --> 00:14:19,600
+Dakle kao zaključak participativnom dizajnu,
+
+305
+00:14:19,600 --> 00:14:22,604
+alternativa je bila potvrđena politički i
+društveno,
+
+306
+00:14:22,604 --> 00:14:25,715
+ali bilo je još pitanje cijene:
+
+307
+00:14:25,715 --> 00:14:28,918
+48 milijuna dolara.
+
+308
+00:14:28,918 --> 00:14:31,322
+Stoga smo učinili pregled
+
+309
+00:14:31,322 --> 00:14:33,875
+u javnom investicijskom sustavu,
+
+310
+00:14:33,875 --> 00:14:36,190
+i pronašli smo da ima tri mistarstva
+
+311
+00:14:36,190 --> 00:14:39,333
+s tri projekta na točno istoj lokaciji,
+
+312
+00:14:39,332 --> 00:14:42,297
+ne znajući o postojanju drugog projekta.
+
+313
+00:14:42,297 --> 00:14:46,634
+Njihov zbroj: 52 milijuna dolara.
+
+314
+00:14:46,634 --> 00:14:49,310
+Dakle dizajnerska moć sinteze
+
+315
+00:14:49,309 --> 00:14:51,425
+je pokušaj da se učini
+efikasnija uporaba
+
+316
+00:14:51,426 --> 00:14:54,283
+deficitarnih sirovina u gradovima,
+
+317
+00:14:54,283 --> 00:14:57,696
+koje nisu novac već koordinacija.
+
+318
+00:14:57,696 --> 00:15:00,478
+Radeći tako, uspjeli smo uštedjeti
+
+319
+00:15:00,477 --> 00:15:03,319
+4 milijuna dolara, Ž
+i zbog toga je šuma
+
+320
+00:15:03,320 --> 00:15:06,900
+danas u izgradnji.
+
+321
+00:15:06,899 --> 00:15:09,515
+(Pljesak)
+
+322
+00:15:09,515 --> 00:15:13,139
+Dakle bila to snaga vlastite gradnje,
+
+323
+00:15:13,139 --> 00:15:16,245
+snaga zdravog razuma,
+
+324
+00:15:16,245 --> 00:15:19,350
+ili snaga prirode, sve te snage
+
+325
+00:15:19,350 --> 00:15:22,781
+trebaju biti prevedene u formu,
+
+326
+00:15:22,780 --> 00:15:26,447
+i što ta forma modelira i oblikuje
+
+327
+00:15:26,447 --> 00:15:29,677
+nije cement, cigle, ili drvo.
+
+328
+00:15:29,677 --> 00:15:31,922
+To je sam život.
+
+329
+00:15:31,922 --> 00:15:34,259
+Dizajnerska moć sinteze
+
+330
+00:15:34,259 --> 00:15:36,679
+je samo pokušaj da se stavi
+
+331
+00:15:36,679 --> 00:15:40,311
+u nutarnju jezgru arhitekture
+
+332
+00:15:40,312 --> 00:15:42,180
+snagu samog života.
+
+333
+00:15:42,179 --> 00:15:44,968
+Puno hvala.
+
+334
+00:15:44,969 --> 00:15:48,890
+(Pljesak)
+

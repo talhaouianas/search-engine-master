@@ -1,0 +1,5 @@
+ifconfig eth0 hw ether 4c:ed:de:1c:51:88
+
+/etc/init.d/networking start
+/etc/init.d/apache2 start
+

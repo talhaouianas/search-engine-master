@@ -1,0 +1,9 @@
+#Affectation de l'adresse MAC (da:df:7f:fa:20:38) à eth0 
+ifconfig eth0 hw ether da:df:7f:fa:20:38
+
+/etc/init.d/networking start
+
+ifconfig eth1 196.1.1.1 up
+
+#pour démarrer le serveur NFS
+/etc/init.d/nfs-kernel-server start

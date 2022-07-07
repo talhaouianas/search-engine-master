@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.7.0</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>com.example</groupId>
+	<artifactId>Docker</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Docker</name>
+	<description>Demo project for Spring Boot</description>
+	<properties>
+	<java.version>1.8</java.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+		 
+		<dependencies>
+		   <dependency>
+    <groupId>org.apache.solr</groupId>
+    <artifactId>solr-solrj</artifactId>
+    
+    </dependency>
+    	<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+	</dependency>
+	
+	<dependency>
+   <groupId>nz.net.ultraq.thymeleaf</groupId>
+   <artifactId>thymeleaf-layout-dialect</artifactId>
+   <version>2.5.1</version>
+</dependency>
+
+    <dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpclient</artifactId>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.tika/tika-core -->
+<dependency>
+    <groupId>org.apache.tika</groupId>
+    <artifactId>tika-core</artifactId>
+    <version>2.4.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+   
+    <scope>provided</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-solr -->
+<dependency>
+    <groupId>org.springframework.data</groupId>
+    <artifactId>spring-data-solr</artifactId>
+    <version>1.0.0.RELEASE</version>
+</dependency>
+
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+			<exclusions>
+        <exclusion>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-logging</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-log4j2</artifactId>
+		
+		</dependency>
+     <dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core</artifactId>
+   
+</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+			
+		</dependency>
+	 <dependency>
+	  <groupId>org.apache.tika</groupId>
+	  <artifactId>tika-core</artifactId>
+	  <version>2.4.0</version>
+	  <type>jar</type>
+	 </dependency>
+
+	 <dependency>
+	  <groupId>org.apache.tika</groupId>
+	  <artifactId>tika-langdetect-optimaize</artifactId>
+	  <version>2.0.0</version>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.springframework</groupId>
+	  <artifactId>spring-web</artifactId>
+	  
+	  <type>jar</type>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.junit.jupiter</groupId>
+	  <artifactId>junit-jupiter-api</artifactId>
+	
+	  <type>jar</type>
+	 </dependency>
+	 <dependency>
+	  <groupId>org.springframework.boot</groupId>
+	  <artifactId>spring-boot-test</artifactId>
+
+	  <type>jar</type>
+	 </dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+
+<dependency>
+   <groupId>org.docx4j</groupId>
+    <artifactId>docx4j</artifactId>
+    <version>6.1.2</version>
+    <exclusions>
+        <exclusion>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+        </exclusion>
+        <exclusion>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-thymeleaf</artifactId>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-web</artifactId>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-test</artifactId>
+                <scope>test</scope>
+            </dependency>
+	</dependencies>
+
+	<build>
+
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+	<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-dependency-plugin</artifactId>
+    <executions>
+        <execution>
+            <id>copy</id>
+            <phase>package</phase>
+            <goals>
+                <goal>copy</goal>
+            </goals>
+            <configuration>
+                <artifactItems>
+                    <artifactItem>
+                        <groupId>org.apache.solr</groupId>
+                        <artifactId>solr-cell</artifactId>
+                        <version>7.2.1</version>
+                        <type>jar</type>
+                        <overWrite>true</overWrite>
+                        <outputDirectory>solr/libs</outputDirectory>
+                        <destFileName>solr-cell.jar</destFileName>
+                    </artifactItem>
+                    <artifactItem>
+                        <groupId>org.apache.tika</groupId>
+                        <artifactId>tika-core</artifactId>
+                        <version>1.17</version>
+                        <type>jar</type>
+                        <overWrite>true</overWrite>
+                        <outputDirectory>solr/libs</outputDirectory>
+                        <destFileName>tika-core.jar</destFileName>
+                    </artifactItem>
+                    <artifactItem>
+                        <groupId>org.apache.tika</groupId>
+                        <artifactId>tika-parsers</artifactId>
+                        <version>1.17</version>
+                        <type>jar</type>
+                        <overWrite>true</overWrite>
+                        <outputDirectory>solr/libs</outputDirectory>
+                        <destFileName>tika-parsers.jar</destFileName>
+                    </artifactItem>
+                    <artifactItem>
+                        <groupId>xerces</groupId>
+                        <artifactId>xercesImpl</artifactId>
+                        <version>2.11.0</version>
+                        <type>jar</type>
+                        <overWrite>true</overWrite>
+                        <outputDirectory>solr/libs</outputDirectory>
+                        <destFileName>xerces.jar</destFileName>
+                    </artifactItem>
+                    <artifactItem>
+                        <groupId>org.ccil.cowan.tagsoup</groupId>
+                        <artifactId>tagsoup</artifactId>
+                        <version>1.2</version>
+                        <type>jar</type>
+                        <overWrite>true</overWrite>
+                        <outputDirectory>solr/libs</outputDirectory>
+                        <destFileName>tagsoup.jar</destFileName>
+                    </artifactItem>
+                </artifactItems>
+                <overWriteReleases>false</overWriteReleases>
+                <overWriteSnapshots>true</overWriteSnapshots>
+            </configuration>
+        </execution>
+    </executions>
+</plugin>
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <configuration>
+        <testFailureIgnore>true</testFailureIgnore>
+    </configuration>
+</plugin>
+		</plugins>
+	<finalName>spring-boot-docker</finalName>
+
+
+</build>
+</project>

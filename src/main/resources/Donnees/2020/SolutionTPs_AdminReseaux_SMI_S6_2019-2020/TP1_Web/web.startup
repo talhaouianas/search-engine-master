@@ -1,0 +1,25 @@
+ifconfig eth0 192.168.1.1 up
+ifconfig eth0:0 192.168.1.254 up
+
+#Pour activer le mode userdir (page web personnel)
+a2enmod userdir
+
+#Activation des sites virtuelles smi,  sma  et info
+#Sites par nom
+a2ensite smi
+a2ensite sma
+
+#Sites par @IP
+a2ensite info
+
+
+#pour démarrer le serveur web apache
+/etc/init.d/apache2 start
+
+
+
+#la commande useradd permet d'ajoute un utilisateur en mode non interactif
+#l'option -m permet de créer le répertoire personnel
+#l'option -s permet de définir le shell 
+useradd -m  -s /bin/bash  smi
+echo "smi:smi6-2016" | chpasswd

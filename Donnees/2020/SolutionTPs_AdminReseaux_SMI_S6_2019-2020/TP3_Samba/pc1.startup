@@ -1,0 +1,31 @@
+ifconfig eth0 192.168.1.1 up
+
+
+#la commande useradd permet d'ajoute un utilisateur en mode non interactif
+#l'option -m permet de créer le répertoire personnel
+#l'option -s permet de définir le shell 
+
+useradd -m  -s /bin/bash smi
+
+#Affecter le mot de passe (smi2019) au compte smi
+echo "smi:smi2019" | chpasswd
+
+
+useradd -m  -s /bin/bash  sma
+#Affecter le mot de passe (sma2019) au compte sma
+echo "sma:sma2019" | chpasswd
+
+
+useradd -m  -s /bin/bash  smia
+#Affecter le mot de passe (smia2019) au compte smia
+echo "smia:smia2019" | chpasswd
+
+
+
+mkdir /home/smi/TestSamba
+#Changer l'utilisateur et le groupe pour le répertoire TestSamba
+# -R : appliquer de façon récursive
+chown -R smi:smi /home/smi/TestSamba
+
+#démarrer samba
+/etc/init.d/samba start

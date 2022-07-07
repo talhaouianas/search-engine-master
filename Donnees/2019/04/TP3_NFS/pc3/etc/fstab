@@ -1,0 +1,3 @@
+# UNCONFIGURED FSTAB FOR BASE SYSTEM
+
+192.168.1.1:/home  /home   nfs    auto,rw,user   0	   0

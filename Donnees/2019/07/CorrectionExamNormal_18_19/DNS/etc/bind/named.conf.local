@@ -1,0 +1,22 @@
+#Zone ump.ma
+zone "ump.ma" {
+        type master;
+        file "/etc/bind/db.ump.ma";
+};
+
+zone "196.17.6.in-addr.arpa" {
+	type master;
+	file "/etc/bind/db.196";
+};
+
+
+#Zone fso.ump.ma
+zone "fso.ump.ma" {
+        type master;
+        file "/etc/bind/db.fso.ump.ma";
+};
+
+zone "17.6.19.in-addr.arpa" {
+	type master;
+	file "/etc/bind/db.17";
+};

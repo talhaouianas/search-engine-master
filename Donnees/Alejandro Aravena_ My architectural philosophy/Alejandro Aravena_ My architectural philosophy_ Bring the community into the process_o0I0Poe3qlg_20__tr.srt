@@ -1,0 +1,1388 @@
+﻿1
+00:00:00,000 --> 00:00:12,000
+Çeviri: Eren Gokce
+Gözden geçirme: harun duygulu
+
+2
+00:00:12,724 --> 00:00:15,428
+Eğer tasarımın bir gücü varsa,
+
+3
+00:00:15,428 --> 00:00:17,771
+o sentezin gücüdür.
+
+4
+00:00:17,771 --> 00:00:19,466
+Sorun karmaşıklaştıkça,
+
+5
+00:00:19,466 --> 00:00:21,967
+basitliğe daha çok ihtiyaç duyulur.
+
+6
+00:00:21,966 --> 00:00:24,303
+Tasarımın sentez gücünü
+
+7
+00:00:24,303 --> 00:00:26,113
+uygulamaya çalıştığımız üç durumu
+
+8
+00:00:26,114 --> 00:00:29,117
+paylaşmama izin verin.
+
+9
+00:00:29,117 --> 00:00:33,218
+Küresel şehirleşme sorunuyla başlayalım.
+
+10
+00:00:33,218 --> 00:00:36,896
+İnsanların şehirlere doğru
+taşındığı bir gerçek
+
+11
+00:00:36,896 --> 00:00:40,361
+ve bu genel kanının aksine iyi bir haber.
+
+12
+00:00:40,360 --> 00:00:44,443
+İnsanların şehirlerde daha iyi durumda
+olduklarını gösteren kanıtlar var.
+
+13
+00:00:44,444 --> 00:00:46,593
+Ancak "3S" tehditi adını verdiğim
+
+14
+00:00:46,593 --> 00:00:48,899
+bir problem var:
+
+15
+00:00:48,899 --> 00:00:51,631
+Ölçek, hız ve imkânların kıtlığı;
+
+16
+00:00:51,631 --> 00:00:54,826
+tarihte daha önce görülmeyen
+
+17
+00:00:54,826 --> 00:00:57,464
+bu olguya karşılık vermemiz gerekiyor.
+
+18
+00:00:57,465 --> 00:00:58,654
+Bir fikriniz olması için,
+
+19
+00:00:58,654 --> 00:01:01,880
+bugün şehirlerde yaşayan
+üç milyar insanın
+
+20
+00:01:01,880 --> 00:01:05,271
+bir milyarı yoksulluk
+sınırının altındadır.
+
+21
+00:01:05,271 --> 00:01:09,210
+2030'da şehirlerde yaşayacak
+
+22
+00:01:09,209 --> 00:01:11,479
+beş milyar insandan
+
+23
+00:01:11,480 --> 00:01:14,837
+iki milyarı yoksulluk
+sınırının altında olacak.
+
+24
+00:01:14,837 --> 00:01:19,266
+Bunun anlamı, gelecek 15 yıl boyunca
+
+25
+00:01:21,605 --> 00:01:28,445
+aile başına 10.000 dolarla,
+
+26
+00:01:30,114 --> 00:01:35,671
+her hafta bir milyon insanlık bir şehir
+
+27
+00:01:35,671 --> 00:01:37,481
+inşa etmemiz gerektiği.
+
+28
+00:01:37,481 --> 00:01:40,206
+Aile başına 10.000 dolarla,
+
+29
+00:01:40,206 --> 00:01:42,329
+her hafta bir milyon insanlık bir şehir.
+
+30
+00:01:42,329 --> 00:01:43,995
+Eğer bu denklemi çözmezsek,
+
+31
+00:01:43,995 --> 00:01:46,043
+insanlar şehirlere gelmeyi
+bırakacak değiller.
+
+32
+00:01:46,043 --> 00:01:47,952
+Yine de gelecekler,
+
+33
+00:01:47,951 --> 00:01:50,957
+ancak gecekondularda, favelalarda
+ve kanunsuz yerleşimlerde
+
+34
+00:01:50,957 --> 00:01:52,367
+yaşayacaklar.
+
+35
+00:01:52,367 --> 00:01:55,245
+O zaman ne yapmalı? Belki de cevap
+
+36
+00:01:55,245 --> 00:01:59,839
+favela ve gecekonduların
+kendisinden gelecek.
+
+37
+00:01:59,840 --> 00:02:03,433
+Bize 10 sene önce sorulan bu soruda
+
+38
+00:02:03,433 --> 00:02:04,890
+bir ipucu olabilir.
+
+39
+00:02:04,890 --> 00:02:08,520
+Şili'nin kuzeyindeki Iquique şehir
+
+40
+00:02:08,520 --> 00:02:10,938
+merkezinde yarım hektarlık alanda
+
+41
+00:02:10,938 --> 00:02:13,233
+yasadışı olarak oturan 100 aileyi,
+
+42
+00:02:13,234 --> 00:02:16,134
+10.000 dolar devlet desteğini kullanarak
+
+43
+00:02:16,133 --> 00:02:19,061
+arsayı almak, altyapıyı sağlamak
+
+44
+00:02:19,062 --> 00:02:22,176
+ve en iyi ihtimalle 40 metrekare
+
+45
+00:02:22,175 --> 00:02:23,908
+civarında olacak evler
+
+46
+00:02:23,908 --> 00:02:27,229
+inşa etmek suretiyle
+
+47
+00:02:27,229 --> 00:02:30,893
+yerleştirmemiz istendi.
+
+48
+00:02:30,894 --> 00:02:33,099
+Bu arada şehrin merkezinde olduğu için
+
+49
+00:02:33,098 --> 00:02:34,750
+arsanın maliyetinin
+
+50
+00:02:34,750 --> 00:02:36,806
+normalde sosyal konutların olması
+
+51
+00:02:36,806 --> 00:02:38,550
+gereken maliyetinden üç kat fazla
+
+52
+00:02:38,550 --> 00:02:42,108
+olduğunu söylediler.
+
+53
+00:02:42,108 --> 00:02:44,334
+Sorunun zorluğu yüzünden,
+
+54
+00:02:44,334 --> 00:02:46,515
+kısıtları anlamak üzere sürece
+
+55
+00:02:46,515 --> 00:02:50,611
+aileleri de dâhil etmeye karar verdik
+
+56
+00:02:50,611 --> 00:02:53,192
+ve katılımcı tasarım sürecini başlattık,
+
+57
+00:02:53,193 --> 00:02:56,840
+oradaki pazarda ne mevcutsa
+onu test ettik.
+
+58
+00:02:56,840 --> 00:02:58,538
+Bağımsız evler ile
+
+59
+00:02:58,538 --> 00:03:01,493
+30 aile yerleştirilebilirdi.
+
+60
+00:03:01,493 --> 00:03:05,455
+Sıra evler ile, 60 aile.
+
+61
+00:03:05,455 --> 00:03:08,597
+["100 aile"]
+Onları yerleştirmenin tek yolu ise
+
+62
+00:03:08,598 --> 00:03:10,920
+yükseklik olarak inşa etmekti,
+
+63
+00:03:10,919 --> 00:03:12,551
+onlarsa bizi bunu çözüm olarak
+
+64
+00:03:12,551 --> 00:03:14,859
+getirmeye kalkışırsak dahi
+
+65
+00:03:14,860 --> 00:03:17,158
+açlık grevine gitmekle
+
+66
+00:03:17,157 --> 00:03:18,583
+tehdit ettiler,
+
+67
+00:03:18,584 --> 00:03:21,655
+çünkü küçük daireleri
+
+68
+00:03:21,655 --> 00:03:23,109
+genişletemeyeceklerdi.
+
+69
+00:03:23,109 --> 00:03:25,798
+Sonuç olarak ailelerle beraber,
+
+70
+00:03:25,798 --> 00:03:27,675
+ki bu önemli, bizim kararımız değil,
+
+71
+00:03:27,675 --> 00:03:30,206
+ailelerle beraber alınan karar
+bir sorunumuz olduğuydu.
+
+72
+00:03:30,206 --> 00:03:31,944
+Yenilik yapmak zorundaydık.
+
+73
+00:03:31,944 --> 00:03:34,610
+O zaman ne yaptık?
+
+74
+00:03:35,719 --> 00:03:39,618
+Orta sınıf bir aile
+
+75
+00:03:39,618 --> 00:03:42,498
+yaklaşık 80 metrekarede
+
+76
+00:03:42,498 --> 00:03:44,849
+oldukça rahat yaşar.
+
+77
+00:03:44,849 --> 00:03:46,521
+Ancak para yokken,
+
+78
+00:03:46,521 --> 00:03:47,864
+pazarın yaptığı şey
+
+79
+00:03:47,864 --> 00:03:52,122
+evin büyüklüğünü
+
+80
+00:03:52,122 --> 00:03:54,971
+40 metrekareye düşürmektir.
+
+81
+00:03:54,971 --> 00:03:56,718
+Söylediğimiz şey şuydu,
+
+82
+00:03:56,718 --> 00:03:59,239
+40 metrekareyi
+
+83
+00:04:00,844 --> 00:04:05,377
+küçük bir ev
+
+84
+00:04:05,377 --> 00:04:08,058
+olarak düşünmek yerine,
+
+85
+00:04:08,058 --> 00:04:10,384
+neden iyi bir evin yarısı
+
+86
+00:04:10,384 --> 00:04:13,191
+olarak düşünmüyoruz?
+
+87
+00:04:13,191 --> 00:04:14,957
+Sorunu küçük bir ev yerine
+
+88
+00:04:14,957 --> 00:04:17,663
+iyi bir evin yarısı olarak
+
+89
+00:04:17,663 --> 00:04:19,298
+ifade ettiğinizde,
+
+90
+00:04:19,298 --> 00:04:22,507
+kilit soru hangi yarısının
+yapılacağı olur.
+
+91
+00:04:22,507 --> 00:04:25,209
+Biz de devletin parasıyla,
+ailelerin tek başlarına
+
+92
+00:04:25,209 --> 00:04:30,618
+yapamayacakları yarısını yapmamız
+gerektiğini düşündük.
+
+93
+00:04:30,619 --> 00:04:33,147
+Evin zor olan yarısına dair
+
+94
+00:04:33,146 --> 00:04:35,504
+beş tane tasarım durumu belirledik
+
+95
+00:04:35,504 --> 00:04:38,600
+ve iki şeyi yapmak üzere
+ailelere geri döndük:
+
+96
+00:04:38,600 --> 00:04:42,600
+Güçleri birleştirmek ve işleri bölüşmek.
+
+97
+00:04:42,600 --> 00:04:45,584
+Tasarımımız bina ile ev arasında
+
+98
+00:04:45,584 --> 00:04:48,264
+bir şeydi.
+
+99
+00:04:48,264 --> 00:04:50,356
+Bir bina olarak, pahalı ve iyi bir
+
+100
+00:04:50,357 --> 00:04:53,349
+konumda bulunan arsayı ödeyebilir
+
+101
+00:04:53,348 --> 00:04:56,969
+ve bir ev olarak genişleyebilirdi.
+
+102
+00:04:56,970 --> 00:04:59,554
+Eğer evi aldıkları sırada
+
+103
+00:04:59,553 --> 00:05:01,919
+çevrenin dışına itilmezlerse,
+
+104
+00:05:01,920 --> 00:05:04,733
+aileler ağlarını ve işlerini korursa,
+
+105
+00:05:04,733 --> 00:05:08,980
+genişlemenin hemen
+başlayacağını biliyorduk.
+
+106
+00:05:08,980 --> 00:05:13,536
+Sonuçta birkaç hafta içinde, ilk baştaki
+
+107
+00:05:13,536 --> 00:05:17,930
+sosyal konutlardan aileler
+tarafından yapılan
+
+108
+00:05:17,930 --> 00:05:20,665
+orta sınıf ünitelere doğru gittik.
+
+109
+00:05:20,665 --> 00:05:22,439
+Bu 10 yıl önce Iquique'deki
+
+110
+00:05:22,439 --> 00:05:24,766
+ilk projemizdi.
+
+111
+00:05:24,766 --> 00:05:28,242
+Bu da Şili'deki son projemiz.
+
+112
+00:05:28,242 --> 00:05:31,194
+Farklı tasarımlar, aynı prensip:
+
+113
+00:05:31,194 --> 00:05:32,759
+Siz çerçeveyi sağlıyorsunuz
+
+114
+00:05:32,759 --> 00:05:36,598
+ve ondan sonra aileler devralıyor.
+
+115
+00:05:36,598 --> 00:05:40,698
+Yani tasarımın amacı,
+
+116
+00:05:40,697 --> 00:05:43,707
+"3S" tehditi olan ölçek, hız ve kıtlığı
+
+117
+00:05:43,708 --> 00:05:45,360
+anlamaya çalışma
+
+118
+00:05:45,360 --> 00:05:46,826
+ve bir yanıt vermeye çalışma,
+
+119
+00:05:46,826 --> 00:05:50,309
+insanların kendi yapma
+kapasitesini yönlendirmektir.
+
+120
+00:05:50,309 --> 00:05:54,713
+İnsanların kendi yapma
+gücünü kullanmazsak,
+
+121
+00:05:54,713 --> 00:05:59,399
+her hafta bir milyon insan
+denklemini çözemeyiz.
+
+122
+00:05:59,399 --> 00:06:01,634
+Yani doğru tasarımla,
+
+123
+00:06:01,634 --> 00:06:05,035
+gecekondular ve favelalar problem değil,
+
+124
+00:06:05,035 --> 00:06:08,784
+aslında tek muhtemel
+çözüm olacaklardır.
+
+125
+00:06:08,783 --> 00:06:11,819
+İkinci durum, tasarımın sürdürülebilirliğe
+
+126
+00:06:11,819 --> 00:06:13,871
+nasıl katkıda bulunabileceği ile ilgili.
+
+127
+00:06:13,870 --> 00:06:16,263
+2012'de Angelini İnovasyon Merkezi
+
+128
+00:06:16,264 --> 00:06:18,829
+için yarışmaya girdik
+
+129
+00:06:18,829 --> 00:06:20,841
+ve amaç bilgi yaratmak için
+
+130
+00:06:20,841 --> 00:06:25,175
+doğru çevreyi yaratmaktı.
+
+131
+00:06:25,175 --> 00:06:27,659
+Böyle bir amaç için, bilgi yaratmak için,
+
+132
+00:06:27,660 --> 00:06:29,196
+insanlar arasında etkileşimin,
+
+133
+00:06:29,196 --> 00:06:31,783
+yüz yüze ilişkinin önemli olduğu
+
+134
+00:06:31,783 --> 00:06:33,980
+kabul edildi ve biz de
+bununla hemfikir olduk.
+
+135
+00:06:33,980 --> 00:06:37,556
+Ancak bizim için doğru çevre sorusu,
+
+136
+00:06:37,555 --> 00:06:39,721
+gerçeği yansıtan bir soruydu.
+
+137
+00:06:39,721 --> 00:06:41,841
+Doğru ışık, doğru sıcaklık,
+
+138
+00:06:41,841 --> 00:06:44,594
+doğru havanın olduğu bir çalışma alanı
+
+139
+00:06:44,595 --> 00:06:46,477
+elde etmek istedik.
+
+140
+00:06:46,476 --> 00:06:48,554
+Kendi kendimize sorduk:
+
+141
+00:06:48,555 --> 00:06:51,144
+Tipik bir ofis binası bu anlamda
+
+142
+00:06:51,144 --> 00:06:53,255
+bize yardımcı olur mu?
+
+143
+00:06:53,255 --> 00:06:56,869
+Yani, o bina tipik olarak nasıl görünür?
+
+144
+00:06:56,870 --> 00:06:59,454
+Katların bir koleksiyonudur,
+
+145
+00:06:59,454 --> 00:07:01,360
+birbirleri üstünde,
+
+146
+00:07:01,360 --> 00:07:04,401
+merkezde bir iç kısımla,
+
+147
+00:07:04,401 --> 00:07:09,090
+asansörler, merdivenler, borular,
+kablolar, her şeyle
+
+148
+00:07:09,089 --> 00:07:12,676
+ve sonra direkt güneş yayınımı yüzünden
+
+149
+00:07:12,677 --> 00:07:16,552
+içeride büyük bir sera etkisi yaratan
+
+150
+00:07:16,552 --> 00:07:21,761
+camdan bir dış tabaka.
+
+151
+00:07:21,761 --> 00:07:23,695
+Buna ek olarak, diyelim ki
+
+152
+00:07:23,694 --> 00:07:25,430
+yedinci katta çalışan bir adam
+
+153
+00:07:25,430 --> 00:07:28,141
+her gün üçüncü kattan geçiyor,
+
+154
+00:07:28,141 --> 00:07:31,180
+ancak o kattaki adamın neyle
+ilgili çalıştığı hakkında
+
+155
+00:07:31,180 --> 00:07:32,908
+hiçbir fikri yok.
+
+156
+00:07:32,908 --> 00:07:36,305
+Biz de belki bu planı ters yüz etmeliyiz
+
+157
+00:07:36,305 --> 00:07:38,105
+diye düşündük.
+
+158
+00:07:38,105 --> 00:07:39,927
+Yaptığımız şey şuydu.
+
+159
+00:07:39,927 --> 00:07:44,110
+Hadi açık bir avlu yapalım,
+
+160
+00:07:44,110 --> 00:07:45,999
+içi boş bir iç kısım olsun,
+
+161
+00:07:45,999 --> 00:07:47,612
+aynı katların koleksiyonu,
+
+162
+00:07:47,612 --> 00:07:52,052
+ama duvarlar ve kitle dış sınırlarda,
+
+163
+00:07:52,052 --> 00:07:56,317
+bu yüzden güneş vurduğu zaman,
+
+164
+00:07:56,317 --> 00:08:02,444
+direkt olarak camı değil,
+duvarı etkiliyor.
+
+165
+00:08:02,444 --> 00:08:05,181
+İçeride açık bir avlunuz olduğunda,
+
+166
+00:08:05,180 --> 00:08:07,329
+binanın içinde diğerlerinin ne yaptığını
+
+167
+00:08:07,329 --> 00:08:09,180
+görebilirsiniz ve ışığı kontrol etmek
+
+168
+00:08:09,180 --> 00:08:11,379
+için daha iyi bir yolunuz olur,
+
+169
+00:08:11,379 --> 00:08:14,783
+aynı zamanda kitle
+ve duvarları dış sınırlar
+
+170
+00:08:14,783 --> 00:08:16,439
+içine yerleştirdiğinizde,
+
+171
+00:08:16,439 --> 00:08:19,872
+direkt güneş yayınımı da engellersiniz.
+
+172
+00:08:19,872 --> 00:08:21,792
+Pencereleri açıp
+
+173
+00:08:21,791 --> 00:08:24,687
+çapraz havalandırma da sağlayabilirsiniz.
+
+174
+00:08:24,687 --> 00:08:27,622
+Yüksekteki meydanlar olarak,
+
+175
+00:08:27,622 --> 00:08:29,714
+açık hava alanları olarak,
+
+176
+00:08:29,714 --> 00:08:31,727
+binanın tamamı boyunca
+
+177
+00:08:31,728 --> 00:08:33,471
+kullanılması için bu açıklıkları
+
+178
+00:08:33,471 --> 00:08:37,134
+böyle bir boyutta yaptık.
+
+179
+00:08:37,134 --> 00:08:38,984
+Hiçbiri roket bilimi değil.
+
+180
+00:08:38,984 --> 00:08:41,682
+Karmaşık programlamaya ihtiyacınız yok.
+
+181
+00:08:41,682 --> 00:08:43,415
+Teknolojiyle ilgili değil.
+
+182
+00:08:43,416 --> 00:08:48,838
+Bu sadece arkaik, ilkel sağduyu
+
+183
+00:08:48,837 --> 00:08:50,805
+ve sağduyuyu kullanarak
+
+184
+00:08:50,806 --> 00:08:53,787
+camdan bir kuleyi soğutmak için
+
+185
+00:08:53,787 --> 00:08:56,127
+gerekli tipik enerji tüketimi olan
+
+186
+00:08:56,126 --> 00:08:58,298
+yılda metrekare başına
+
+187
+00:08:58,298 --> 00:09:00,289
+120 kilovattan,
+
+188
+00:09:00,289 --> 00:09:04,620
+yılda metrekare başına
+40 kilovata eriştik.
+
+189
+00:09:04,620 --> 00:09:06,897
+Yani sürdürülebilirlik
+
+190
+00:09:06,897 --> 00:09:09,441
+doğru tasarımla, sağduyunun özenli
+
+191
+00:09:09,441 --> 00:09:13,173
+kullanımından başka bir şey değildir.
+
+192
+00:09:13,173 --> 00:09:16,146
+Son olarak paylaşmak istediğim örnek,
+
+193
+00:09:16,147 --> 00:09:18,442
+tasarımın doğal afetlere
+karşı nasıl kapsamlı
+
+194
+00:09:18,442 --> 00:09:20,830
+bir cevap sağlayabileceğiyle ilgili.
+
+195
+00:09:20,830 --> 00:09:23,895
+Şili'nin 2010'da Richter ölçeğine göre
+
+196
+00:09:23,894 --> 00:09:27,699
+8.8 büyüklüğünde bir deprem ve tsunami
+
+197
+00:09:27,700 --> 00:09:29,823
+ile sarsıldığını belki biliyorsunuzdur
+
+198
+00:09:29,822 --> 00:09:31,697
+ve biz de ülkenin güneyindeki
+
+199
+00:09:31,697 --> 00:09:33,939
+Constitución'un yeniden inşa edilmesinde
+
+200
+00:09:33,940 --> 00:09:35,850
+çalışmak için çağrıldık.
+
+201
+00:09:35,850 --> 00:09:39,346
+Kamu binalarından halka açık alanlara,
+
+202
+00:09:39,346 --> 00:09:41,263
+sokak ızgaralarına, ulaşıma,
+konutlara kadar
+
+203
+00:09:41,263 --> 00:09:43,580
+hemen hemen her şeyi
+
+204
+00:09:43,580 --> 00:09:45,670
+ve en önemlisi şehrin gelecekteki
+
+205
+00:09:45,669 --> 00:09:48,423
+tsunamilere karşı nasıl korunacağını
+
+206
+00:09:48,423 --> 00:09:50,678
+tasarlamak için bize
+100 gün, üç ay verildi.
+
+207
+00:09:50,678 --> 00:09:53,828
+Bu Şili şehir tasarımında yeni bir şeydi
+
+208
+00:09:53,828 --> 00:09:57,201
+ve aklımızda birkaç alternatif vardı.
+
+209
+00:09:57,201 --> 00:09:58,453
+Birincisi:
+
+210
+00:09:58,453 --> 00:10:01,102
+Sıfırıncı kata yerleşimi yasakla.
+
+211
+00:10:01,102 --> 00:10:03,139
+Çoğunlukla arazi kamulaştırmak için
+
+212
+00:10:03,139 --> 00:10:05,524
+otuz milyon dolar harcandı.
+
+213
+00:10:05,524 --> 00:10:08,785
+Bu aynen bugünlerde
+Japonya'da tartışılan şey
+
+214
+00:10:08,785 --> 00:10:10,832
+ve eğer Japonlar gibi disiplinli bir
+
+215
+00:10:10,832 --> 00:10:13,173
+nüfusunuz varsa bu mümkün olabilir,
+
+216
+00:10:13,173 --> 00:10:14,658
+ancak biliyoruz ki Şili'de
+
+217
+00:10:14,658 --> 00:10:18,471
+bu arazi her halükârda yasa dışı
+olarak işgal edilecek,
+
+218
+00:10:18,471 --> 00:10:22,543
+bu yüzden bu alternatif gerçekçi
+değildi ve istenmiyordu.
+
+219
+00:10:22,543 --> 00:10:25,936
+İkinci alternatif: Dalgaların enerjisine
+
+220
+00:10:25,936 --> 00:10:28,253
+karşı koymak için büyük bir duvar
+
+221
+00:10:28,253 --> 00:10:30,195
+ve sağlam bir altyapı inşa et.
+
+222
+00:10:30,195 --> 00:10:32,314
+Bu alternatif için büyük inşaat şirketleri
+
+223
+00:10:32,313 --> 00:10:33,674
+rahatça kulis yaptılar,
+
+224
+00:10:33,674 --> 00:10:37,881
+çünkü 42 milyon dolarlık kontrat
+anlamına geliyordu
+
+225
+00:10:37,881 --> 00:10:40,234
+ve politik olarak da tercih ediliyordu,
+
+226
+00:10:40,235 --> 00:10:44,226
+çünkü hiçbir arazi kamulaştırması
+gerektirmiyordu.
+
+227
+00:10:44,226 --> 00:10:46,976
+Ancak Japonya doğanın gücüne karşı
+
+228
+00:10:46,976 --> 00:10:50,289
+gelmeye çalışmanın faydasız
+olduğunu anlamıştı.
+
+229
+00:10:50,289 --> 00:10:53,653
+Yani bu alternatif güvenilmezdi.
+
+230
+00:10:53,653 --> 00:10:55,747
+Konut yapımında olduğu gibi,
+
+231
+00:10:55,746 --> 00:10:57,623
+bunun için çözüm bulmakta toplumu
+
+232
+00:10:57,624 --> 00:11:00,971
+dâhil etmek zorundaydık
+
+233
+00:11:00,971 --> 00:11:04,144
+ve katılımcı bir tasarım süreci başlattık.
+
+234
+00:11:04,144 --> 00:11:06,415
+(Video) [İspanyolca] Hoparlör:
+Nasıl bir şehir istiyorsunuz?
+
+235
+00:11:06,416 --> 00:11:07,958
+Constitución için oy verin.
+
+236
+00:11:07,957 --> 00:11:10,262
+Açık Ev'e gidip
+tercihlerinizi ifade edin.
+
+237
+00:11:10,263 --> 00:11:12,436
+Katılın!
+
+238
+00:11:12,436 --> 00:11:14,509
+Balıkçı: Ben bir balıkçıyım.
+
+239
+00:11:14,509 --> 00:11:16,619
+Yirmi beş tane balıkçı benimle çalışıyor.
+
+240
+00:11:16,619 --> 00:11:18,958
+Onları nereye götüreceğim? Ormana mı?
+
+241
+00:11:18,957 --> 00:11:22,342
+Adam: Neden betondan bir
+korumamız olmuyor?
+
+242
+00:11:22,342 --> 00:11:24,250
+Aferin, tabii ki.
+
+243
+00:11:24,250 --> 00:11:26,140
+Adam 2: Ben Constitución'un tarihiyim.
+
+244
+00:11:26,140 --> 00:11:30,100
+Bana gelip burada yaşamaya devam
+edemeyeceğimi mi söylüyorsunuz?
+
+245
+00:11:30,100 --> 00:11:32,298
+Bütün ailem burada yaşadı,
+
+246
+00:11:32,298 --> 00:11:33,770
+çocuklarımı burada büyüttüm
+
+247
+00:11:33,770 --> 00:11:35,855
+ve benim çocuklarım da kendi
+çocuklarını burada büyütecekler,
+
+248
+00:11:35,855 --> 00:11:38,364
+torunlarımı ve diğer herkes de öyle.
+
+249
+00:11:38,364 --> 00:11:40,889
+Neden bize bunu dayatıyorsunuz?
+
+250
+00:11:40,889 --> 00:11:42,766
+Sen! Bunu bana dayatıyorsun!
+
+251
+00:11:42,767 --> 00:11:44,558
+Tehlikeli bölgede inşaat yapma iznim yok.
+
+252
+00:11:44,557 --> 00:11:46,144
+Kendisi bunu söylüyor.
+
+253
+00:11:46,144 --> 00:11:48,230
+Adam 3: Hayır, hayır, hayır, Nieves...
+
+254
+00:11:50,940 --> 00:11:53,228
+Alejandro Aravena: Alt yazılardan
+
+255
+00:11:53,227 --> 00:11:55,512
+okuyabildiniz mi bilmiyorum ama,
+
+256
+00:11:55,513 --> 00:11:57,157
+vücut dilinden anlaşılan
+
+257
+00:11:57,157 --> 00:11:58,435
+katılımcı tasarım
+
+258
+00:11:58,434 --> 00:12:00,758
+hippi, romantik,
+
+259
+00:12:00,759 --> 00:12:04,009
+hadi hep beraber şehrin
+geleceğini hayal edelim
+
+260
+00:12:04,009 --> 00:12:06,076
+türünde bir şey değil.
+
+261
+00:12:06,076 --> 00:12:09,570
+Aslında- (Alkış)
+
+262
+00:12:09,570 --> 00:12:11,970
+Aslında ailelerle beraber doğru cevabı
+
+263
+00:12:11,970 --> 00:12:15,016
+bulmak bile değil.
+
+264
+00:12:15,015 --> 00:12:17,828
+Büyük oranda doğru sorunun ne olduğunu
+
+265
+00:12:17,828 --> 00:12:19,899
+kesin bir şekilde tanımlamaya çalışmak.
+
+266
+00:12:19,899 --> 00:12:21,986
+Yanlış soruyu doğru cevaplamaktan
+
+267
+00:12:21,986 --> 00:12:24,091
+daha kötü bir şey yok.
+
+268
+00:12:24,091 --> 00:12:27,409
+Bu süreçten sonra bizim orada
+
+269
+00:12:27,409 --> 00:12:30,940
+korkup gideceğimiz oldukça açıktı,
+
+270
+00:12:30,941 --> 00:12:33,517
+çünkü çok gergindi
+
+271
+00:12:33,517 --> 00:12:35,543
+veya ileri gidip şu soruyu sorabilirdik:
+
+272
+00:12:35,543 --> 00:12:36,937
+Daha başka neler sizi rahatsız ediyor?
+
+273
+00:12:36,937 --> 00:12:38,691
+Daha başka hangi sorunlarınız var
+
+274
+00:12:38,691 --> 00:12:41,273
+ve şehrin sıfırdan yeniden
+tasarlanması gerekliliği
+
+275
+00:12:41,273 --> 00:12:45,595
+konusuyla artık ilgilenmemizi mi
+istiyorsunuz?
+
+276
+00:12:45,595 --> 00:12:47,791
+Şöyledikleri şey şuydu:
+
+277
+00:12:47,791 --> 00:12:50,576
+Bakın, şehri gelecekteki tsunamilere
+karşı korumak iyi,
+
+278
+00:12:50,576 --> 00:12:55,333
+çok minnettarız, ancak bir sonraki ne zaman,
+20 yıl sonra mı gelecek?
+
+279
+00:12:55,333 --> 00:12:57,426
+Ancak her yıl, yağmurdan dolayı sel
+
+280
+00:12:57,427 --> 00:13:00,290
+problemimiz var.
+
+281
+00:13:00,289 --> 00:13:02,490
+Buna ilaveten, ülkenin ormanlık
+
+282
+00:13:02,490 --> 00:13:04,288
+bölgesinin ortasındayız
+
+283
+00:13:04,288 --> 00:13:07,109
+ve halka açık alanlarımız çok berbat.
+
+284
+00:13:07,109 --> 00:13:10,900
+Kötüler ve azlar.
+
+285
+00:13:10,899 --> 00:13:13,483
+Şehrin kökeni, kimliğimiz
+
+286
+00:13:13,484 --> 00:13:16,370
+gerçekte çöken binalara bağlı değil,
+
+287
+00:13:16,370 --> 00:13:17,984
+nehre bağlı,
+
+288
+00:13:17,984 --> 00:13:20,798
+ancak nehre halk tarafından erişilemiyor,
+
+289
+00:13:20,798 --> 00:13:24,500
+çünkü kıyıları şahıslara ait.
+
+290
+00:13:24,500 --> 00:13:29,302
+Bu yüzden üçüncü bir alternatif
+üretebileceğimizi düşündük
+
+291
+00:13:29,302 --> 00:13:33,846
+ve yaklaşımımız coğrafi
+tehditlere karşı
+
+292
+00:13:33,846 --> 00:13:37,466
+coğrafi yanıtlar olmasıydı.
+
+293
+00:13:37,466 --> 00:13:41,254
+Şehirle deniz arasında
+
+294
+00:13:43,600 --> 00:13:45,983
+bir ormanımız olsaydı
+
+295
+00:13:48,590 --> 00:13:51,768
+ne olurdu,
+
+296
+00:13:51,768 --> 00:13:54,354
+doğanın enerjisine karşı koymaya
+
+297
+00:13:54,354 --> 00:13:56,211
+çalışmayan, ancak sürtünme yaratarak
+
+298
+00:13:56,211 --> 00:14:00,270
+onu yok eden bir orman?
+
+299
+00:14:00,270 --> 00:14:04,163
+Suyun üzerini kaplayıp taşmayı
+
+300
+00:14:04,163 --> 00:14:06,514
+önleyebilecek bir orman.
+
+301
+00:14:06,514 --> 00:14:11,598
+Halka açık alanlara olan tarihi borcu
+
+302
+00:14:11,599 --> 00:14:14,242
+ödeyebilecek ve sonunda nehre demokratik
+
+303
+00:14:14,241 --> 00:14:16,659
+ulaşımı sağlayabilecek.
+
+304
+00:14:16,659 --> 00:14:19,600
+Katılımcı tasarımın sonucu olarak,
+
+305
+00:14:19,600 --> 00:14:22,604
+alternatifin politik ve sosyal olarak
+geçerliliği onaylanmış oldu,
+
+306
+00:14:22,604 --> 00:14:25,715
+ancak hâlâ maliyet problemi vardı:
+
+307
+00:14:25,715 --> 00:14:28,918
+48 milyon dolar.
+
+308
+00:14:28,918 --> 00:14:31,322
+Sonuç olarak devlet yatırım sistemi
+
+309
+00:14:31,322 --> 00:14:33,875
+ile ilgili bir araştırma yaptık
+
+310
+00:14:33,875 --> 00:14:36,190
+ve aynı yerde üç bakanlığın üç projesi
+
+311
+00:14:36,190 --> 00:14:39,333
+olduğunu bulduk,
+
+312
+00:14:39,332 --> 00:14:42,297
+diğer projelerin varlığından
+haberleri yoktu.
+
+313
+00:14:42,297 --> 00:14:46,634
+Hepsinin toplamı: 52 milyon dolar.
+
+314
+00:14:46,634 --> 00:14:49,310
+Tasarımın sentez gücü,
+
+315
+00:14:49,309 --> 00:14:51,425
+şehirlerdeki en kıt kaynakları
+
+316
+00:14:51,426 --> 00:14:54,283
+daha verimli kullanmaya çalışır,
+
+317
+00:14:54,283 --> 00:14:57,696
+ki bu para değil koordinasyondur.
+
+318
+00:14:57,696 --> 00:15:00,478
+Böylece dört milyon dolar
+
+319
+00:15:00,477 --> 00:15:03,319
+tasarruf etmeyi başardık ve bu sebeple
+
+320
+00:15:03,320 --> 00:15:06,900
+orman bugün yapım hâlinde.
+
+321
+00:15:06,899 --> 00:15:09,515
+(Alkış)
+
+322
+00:15:09,515 --> 00:15:13,139
+İster kendi kendine yapmanın gücü olsun,
+
+323
+00:15:13,139 --> 00:15:16,245
+isterse sağduyunun gücü
+
+324
+00:15:16,245 --> 00:15:19,350
+veya doğanın gücü olsun, bütün bu güçler
+
+325
+00:15:19,350 --> 00:15:22,781
+şekle dönüştürülmek zorunda,
+
+326
+00:15:22,780 --> 00:15:26,447
+o şeklin modellediği
+ve biçimlendirdiği şey
+
+327
+00:15:26,447 --> 00:15:29,677
+çimento, tuğla ve tahta değildir.
+
+328
+00:15:29,677 --> 00:15:31,922
+Hayatın kendisidir.
+
+329
+00:15:31,922 --> 00:15:34,259
+Tasarımın sentez gücü,
+
+330
+00:15:34,259 --> 00:15:36,679
+yalnızca mimarinin özüne
+
+331
+00:15:36,679 --> 00:15:40,311
+hayatın gücünü
+
+332
+00:15:40,312 --> 00:15:42,180
+koymaya bir teşebbüstür.
+
+333
+00:15:42,179 --> 00:15:44,968
+Çok teşekkürler.
+
+334
+00:15:44,969 --> 00:15:48,890
+(Alkış)
+

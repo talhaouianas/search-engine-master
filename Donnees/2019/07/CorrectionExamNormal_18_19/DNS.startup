@@ -1,0 +1,6 @@
+ifconfig eth0 17.6.19.2/24 up
+
+route add default gw 17.6.19.1
+
+#Démarrage du serveur BIND (DNS)
+/etc/init.d/bind9 start

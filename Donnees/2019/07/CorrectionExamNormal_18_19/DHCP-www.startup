@@ -1,0 +1,32 @@
+ifconfig eth1 17.6.19.1/24 up
+ifconfig eth0 196.17.6.1/28 up
+
+
+#Ajout du réseau 196.1.1.0/24 à la table de routage 
+route add  -net 196.1.1.0/24 gw 196.17.6.2
+
+
+#démarrage du serveur DHCP
+/etc/init.d/dhcp3-server start
+
+#Création de l'utilisateur oujdi
+useradd -m oujdi
+
+#Affectation du mot de passe smi6,2019 à oujdi
+echo "oujdi:smi6,2019"|chpasswd
+
+mkdir /home/oujdi/public_html
+echo "Mon site personnel <br> Mon nom est Oujdi" > /home/oujdi/public_html/smi.html
+
+#Vous pouvez créer le répertoire "public_html" dans "NFS/home/oujdi" et mettre dedans le fichier  "smi.html"
+
+
+#Activation du mode userdir (sites personnels)
+a2enmod userdir 
+
+#Activation du site par @IP "fso"
+a2ensite fso
+
+#démarrage du serveur apache2
+/etc/init.d/apache2 start
+

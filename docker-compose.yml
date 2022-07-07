@@ -1,0 +1,17 @@
+version: '3.1'
+
+services:
+  solr:
+    image: solr
+    hostname: solr
+    restart: always
+    ports:
+      - "8983:8983"
+    volumes:
+      - ./solr/core/:/opt/solr/server/solr/processing/
+      - ./solr/libs/:/opt/solr/server/solr-cell/
+    command:
+      - solr-precreate
+      - Parti2
+volumes:
+  data:

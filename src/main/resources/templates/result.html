@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta charset="ISO-8859-1">
+<head>
+    <meta charset="UTF-8">
+    <title>search result</title>
+    <style>
+H2,H1 {
+ font-family:fantasy;
+ color:	dodgerblue;
+ }
+ H4 {
+ font-family:fantasy;
+ }
+  .yellow-div {
+  background-color:MintCream;
+  width: 80%;
+  padding: 25px;
+  border: 5px solid LightSkyBlue;
+  margin:100px;
+}
+</style>
+
+</head>
+<body>
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+<h1 th:text="${'Found '+nbrdocs+' documents for : '+solrJ}" ></h1><br>
+
+
+<table style="width:100%"  class="table table-striped table-hover table-responsive-xl table-hover  ">
+    <thead class="thead-dark"><!--
+    <tr>
+        <th><h2>document</h2></th>
+        <th><h2>language</h2></th>
+        <th><h2>author</h2></th>
+       <th><h2>content</h2></th>
+    </tr>-->
+    </thead>
+    <tbody>
+    <tr th:each="row :${list}"><!--
+        <td><h4>   [[${row.getTitle()}]]</h4>
+
+          </td>
+
+          <td><h4>[[${row.getLanguage()}]]</h4>
+
+          </td>
+
+          <td><h4>[[${row.getAuthor()}]]</h4>
+
+          </td>
+
+          <td>
+              [[${row.getContent()}]]
+          </td>-->
+     </tr>
+
+      </tbody>
+  </table>
+
+  <ul style="none" th:each="row :${list}">
+     <li><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[${row.getTitle()}]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[${row.getLanguage()}]]</h2>[[${row.getAuthor()}]] <div class="yellow-div"> [[${row.getContent()}]]</div></li>
+      
+  </ul>
+
+</body>
+</html>

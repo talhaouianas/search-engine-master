@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+    <head>
+        <title>Master M2I</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            .center{
+            margin-left:auto;
+            margin-right:auto;
+            display:block;
+            }
+        </style>
+    </head>
+    <body>
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="js/bootstrap.min.js"></script>
+ 
+<div class="container">
+  <div class="row">
+   
+      <div class="col-md-2">
+          <img src="../../logo.svg" class="img-rounded " width="150"  alt="..."> <br><br>
+           <img src="../../title.svg" class="img-rounded " width="150"  alt="...">
+    </div>
+
+    <div class="col-md-8">
+         <img src="../../M2I.png" class="img-rounded " width="150"  style="margin: 20px 100px 100px 300px "  alt="...">
+     
+    </div>
+      
+    <div class="col-md-2">
+       
+       <img src="../../logo.svg" class="img-rounded " width="150"  alt="..."> <br><br>
+       <img src="../../title1.svg" class="img-rounded " width="150"  alt="...">
+    </div>
+  </div>
+    <div class="row">
+        <form  th:action="@{controller}" th:object="${controller}" method="post">
+        <div class="row col-md-offset-2 col-md-8" >
+                <span class="icones glyphicon glyphicon-pen"> </span>
+           <div id="custom-search-input">
+                            <div class="input-group  col-md-12">
+                                <input  id="query" name="query"  type="text" class="  search-query form-control" placeholder="Search" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-danger" type="submit">
+                                     <span class= "glyphicon glyphicon-search" ></span>
+                                    </button>
+                                     
+                                </span>
+                            </div>
+                        </div>
+	</div>
+    </form>
+       
+    </div>
+    
+   
+
+</div>
+
+        
+    </body>
+</html>

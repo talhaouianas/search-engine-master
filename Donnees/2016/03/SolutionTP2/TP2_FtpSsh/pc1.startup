@@ -1,0 +1,7 @@
+ifconfig eth0 192.168.1.1 up
+
+#pour démarrer le serveur FTP
+/etc/init.d/proftpd start
+
+#pour démarrer le serveur SSH
+/etc/init.d/ssh start

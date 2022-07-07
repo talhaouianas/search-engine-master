@@ -1,0 +1,1422 @@
+﻿1
+00:00:00,000 --> 00:00:12,000
+Translator: Skender Mustafi
+Reviewer: Helena Bedalli
+
+2
+00:00:12,724 --> 00:00:15,428
+Nëse ka ndonjë fuqi në dizajn,
+
+3
+00:00:15,428 --> 00:00:17,771
+është fuqia e sintezës.
+
+4
+00:00:17,771 --> 00:00:19,466
+Sa më kompleks problemi,
+
+5
+00:00:19,466 --> 00:00:21,967
+aq më e madhe nevoja për thjeshtesi.
+
+6
+00:00:21,966 --> 00:00:24,303
+Më lejoni te ndaj me ju tre raste
+
+7
+00:00:24,303 --> 00:00:26,113
+ku jemi munduar të aplikojmë
+
+8
+00:00:26,114 --> 00:00:29,117
+fuqinë e sintezës në projektim.
+
+9
+00:00:29,117 --> 00:00:33,218
+Le të fillojmë me sfidën globale
+të urbanizimit.
+
+10
+00:00:33,218 --> 00:00:36,896
+Është fakt se njerëzit
+po lëvizin drejt qyteteve
+
+11
+00:00:36,896 --> 00:00:40,361
+edhe pse paradoksale,
+është lajm i mirë.
+
+12
+00:00:40,360 --> 00:00:44,443
+Dëshmitë tregojnë se njerëzit
+janë më mirë në qytete.
+
+13
+00:00:44,444 --> 00:00:46,593
+Por është një problem që do ta quaja
+
+14
+00:00:46,593 --> 00:00:48,899
+kërcënimi i "3S":
+
+15
+00:00:48,899 --> 00:00:51,631
+Shkalla, shpejtësia dhe
+pamjaftueshmëria e mjeteve
+
+16
+00:00:51,631 --> 00:00:54,826
+me të cilat do të duhet t'i
+përgjigjemi këtij fenomeni
+
+17
+00:00:54,826 --> 00:00:57,464
+nuk ka paraprirje në histori.
+
+18
+00:00:57,465 --> 00:00:58,654
+Që të kuptoni,
+
+19
+00:00:58,654 --> 00:01:01,880
+nga tre miliardë njerëz
+që jetojnë në qytete sot,
+
+20
+00:01:01,880 --> 00:01:05,271
+një miliard janë nën kufirin e varfërisë.
+
+21
+00:01:05,271 --> 00:01:09,210
+Në vitin 2030, nga pesë miliardë njerëz
+
+22
+00:01:09,209 --> 00:01:11,479
+që do të jetojnë në qytete,
+
+23
+00:01:11,480 --> 00:01:14,837
+dy miliardë do të jenë
+nën kufirin e varfërisë.
+
+24
+00:01:14,837 --> 00:01:19,266
+Kjo do të thotë se ne
+do të duhet të ndërtojmë
+
+25
+00:01:21,605 --> 00:01:28,445
+nje qytet për një milion persona çdo javë
+
+26
+00:01:30,114 --> 00:01:35,671
+me 10.000 dollarë për familje
+
+27
+00:01:35,671 --> 00:01:37,481
+gjatë 15 viteve të ardhshme.
+
+28
+00:01:37,481 --> 00:01:40,206
+Çdo javë nga nje qytet
+për një milion persona
+
+29
+00:01:40,206 --> 00:01:42,329
+me 10.000 dollarë për familje.
+
+30
+00:01:42,329 --> 00:01:43,995
+Nëse se nuk e zgjidhim këtë ekuacion
+
+31
+00:01:43,995 --> 00:01:46,043
+s'është se njerëzit do të
+ndalojnë të vijnë në qytete.
+
+32
+00:01:46,043 --> 00:01:47,952
+Ata do të vijnë sidoqoftë,
+
+33
+00:01:47,951 --> 00:01:50,957
+por ata do të jetojnë
+në lagje shume të varfra
+
+34
+00:01:50,957 --> 00:01:52,367
+e vendbanime te paligjshme.
+
+35
+00:01:52,367 --> 00:01:55,245
+Pra, çfarë të bëjmë? Ja!
+
+36
+00:01:55,245 --> 00:01:59,839
+Një përgjigje mund të vijë
+nga vetë lagjet e varfra.
+
+37
+00:01:59,840 --> 00:02:03,433
+Një e dhënë mund të jetë
+në pyetjen që na bënë
+
+38
+00:02:03,433 --> 00:02:04,890
+10 vite më parë.
+
+39
+00:02:04,890 --> 00:02:08,520
+Na u kërkua të akomodojmë
+
+40
+00:02:08,520 --> 00:02:10,938
+100 familje të cilat
+po pushtonin ilegalisht
+
+41
+00:02:10,938 --> 00:02:13,233
+gjysmë hektari në qendër
+
+42
+00:02:13,234 --> 00:02:16,134
+të qytetit Iquique në veri të Kilit
+
+43
+00:02:16,133 --> 00:02:19,061
+duke shfrytëzuar 10.000$ ndihmë
+
+44
+00:02:19,062 --> 00:02:22,176
+me të cilat duhej të blinim tokën,
+
+45
+00:02:22,175 --> 00:02:23,908
+të siguronim infrastrukturën
+
+46
+00:02:23,908 --> 00:02:27,229
+dhe të ndërtonim shtëpitë
+të cilat në rastet
+
+47
+00:02:27,229 --> 00:02:30,893
+më të mira do të ishin rreth 40 m katrorë.
+
+48
+00:02:30,894 --> 00:02:33,099
+Dhe meqë ra fjala, ata thanë,
+
+49
+00:02:33,098 --> 00:02:34,750
+çmimi i tokës,
+
+50
+00:02:34,750 --> 00:02:36,806
+meqë është në qendër të qytetit,
+
+51
+00:02:36,806 --> 00:02:38,550
+është tri herë më shumë
+sa strehimi shoqëror
+
+52
+00:02:38,550 --> 00:02:42,108
+zakonisht mund t'i lejojë vetes.
+
+53
+00:02:42,108 --> 00:02:44,334
+Për shkak të vështirësisë së problemit,
+
+54
+00:02:44,334 --> 00:02:46,515
+vendosëm t'i përfshijmë familjet
+
+55
+00:02:46,515 --> 00:02:50,611
+në procesin e të kuptuarit të kufizimeve,
+
+56
+00:02:50,611 --> 00:02:53,192
+dhe filluam procesin e projektimit
+me pjesëmarrje
+
+57
+00:02:53,193 --> 00:02:56,840
+dhe testimin e asaj që ishte
+në dispozicion në treg.
+
+58
+00:02:56,840 --> 00:02:58,538
+Me shtëpi të veçuara,
+
+59
+00:02:58,538 --> 00:03:01,493
+30 familje mund të akomodoheshin.
+
+60
+00:03:01,493 --> 00:03:05,455
+Me shtëpi në rresht, 60 familje.
+
+61
+00:03:05,455 --> 00:03:08,597
+["100 familje"]
+E vetmja mënyrë për t'i strehuar të gjithë
+
+62
+00:03:08,598 --> 00:03:10,920
+ishte të ndërtonim në lartësi
+
+63
+00:03:10,919 --> 00:03:12,551
+dhe na kërcënuan
+
+64
+00:03:12,551 --> 00:03:14,859
+se do të kalonin në grevë urie
+
+65
+00:03:14,860 --> 00:03:17,158
+nëse, madje, do të guxonim të ofronim
+
+66
+00:03:17,157 --> 00:03:18,583
+këtë si zgjidhje,
+
+67
+00:03:18,584 --> 00:03:21,655
+sepse nuk mund t'i shtonin
+
+68
+00:03:21,655 --> 00:03:23,109
+apartamentet e vogla ne më të mëdha.
+
+69
+00:03:23,109 --> 00:03:25,798
+Pra, përfundimi me familjet -
+
+70
+00:03:25,798 --> 00:03:27,675
+dhe kjo është me rëndësi,
+jo përfundimi ynë -
+
+71
+00:03:27,675 --> 00:03:30,206
+ishte se ne kishim nje problem.
+
+72
+00:03:30,206 --> 00:03:31,944
+Duhej të bënim risi.
+
+73
+00:03:31,944 --> 00:03:34,610
+Dhe çfarë bëmë?
+
+74
+00:03:35,719 --> 00:03:39,618
+Familja e klasës së mesme
+
+75
+00:03:39,618 --> 00:03:42,498
+jeton relativisht mirë
+
+76
+00:03:42,498 --> 00:03:44,849
+në rreth 80 metra katrorë,
+
+77
+00:03:44,849 --> 00:03:46,521
+por kur nuk ka para,
+
+78
+00:03:46,521 --> 00:03:47,864
+ajo çfarë bën tregu
+
+79
+00:03:47,864 --> 00:03:52,122
+është që zvogëlon madhësinë
+
+80
+00:03:52,122 --> 00:03:54,971
+e shtëpisë në 40 metra katrorë.
+
+81
+00:03:54,971 --> 00:03:56,718
+Ajo që thamë ishte,
+
+82
+00:03:56,718 --> 00:03:59,239
+nëse,
+
+83
+00:04:00,844 --> 00:04:05,377
+në vend qe të mendonim
+për 40 metra katrorë
+
+84
+00:04:05,377 --> 00:04:08,058
+si një shtëpi e vogël,
+
+85
+00:04:08,058 --> 00:04:10,384
+pse nuk e konsiderojmë
+
+86
+00:04:10,384 --> 00:04:13,191
+si gjysmën e një shtëpie të madhe?
+
+87
+00:04:13,191 --> 00:04:14,957
+Kur e perifrazon problemin
+
+88
+00:04:14,957 --> 00:04:17,663
+si gjysmë të shtëpisë së mirë
+
+89
+00:04:17,663 --> 00:04:19,298
+në vend të një të vogle,
+pyetja kryesore është,
+
+90
+00:04:19,298 --> 00:04:22,507
+cilën nga pjesët do ta bëjmë ne?
+
+91
+00:04:22,507 --> 00:04:25,209
+Dhe ne menduam të bëjmë
+me para shteterore gjysmen
+
+92
+00:04:25,209 --> 00:04:30,618
+qe familjet s'do të jenë në gjendje
+ta bëjnë individualisht.
+
+93
+00:04:30,619 --> 00:04:33,147
+Ne identifikuam pesë kushte dizajni
+
+94
+00:04:33,146 --> 00:04:35,504
+të cilat i përkisnin pjesës
+më të rëndë të shtëpisë,
+
+95
+00:04:35,504 --> 00:04:38,600
+dhe u kthyem tek familjet
+për të bërë dy gjëra:
+
+96
+00:04:38,600 --> 00:04:42,600
+t'i bashkojmë fuqitë
+dhe t'i ndajmë detyrat
+
+97
+00:04:42,600 --> 00:04:45,584
+Dizajni ynë ishte diçka në mes
+
+98
+00:04:45,584 --> 00:04:48,264
+një ndërtese dhe një shtëpie.
+
+99
+00:04:48,264 --> 00:04:50,356
+Si ndërtesë, të vlente
+
+100
+00:04:50,357 --> 00:04:53,349
+për shtrenjtësinë, tokën në vend të mirë,
+
+101
+00:04:53,348 --> 00:04:56,969
+dhe si shtëpi, mund të zgjerohej.
+
+102
+00:04:56,970 --> 00:04:59,554
+Nëse, në procesin e mos-dëbimit
+
+103
+00:04:59,553 --> 00:05:01,919
+në periferi ndersa te beheshin me shtëpi,
+
+104
+00:05:01,920 --> 00:05:04,733
+familjet mbajtën rrjetin e tyre
+dhe vendet e punës,
+
+105
+00:05:04,733 --> 00:05:08,980
+ne e dinim se zgjerimi
+do të fillonte menjëherë.
+
+106
+00:05:08,980 --> 00:05:13,536
+Kështu që kaluam nga ky strehim
+fillestar shoqëror
+
+107
+00:05:13,536 --> 00:05:17,930
+në njësi të klasës së mesme
+te realizuar nga vetë familjet
+
+108
+00:05:17,930 --> 00:05:20,665
+brenda disa javëve.
+
+109
+00:05:20,665 --> 00:05:22,439
+Ky ishte projekti ynë i parë
+
+110
+00:05:22,439 --> 00:05:24,766
+në Ikike 10 vjet më parë.
+
+111
+00:05:24,766 --> 00:05:28,242
+Ky është projekti ynë i fundit në Kili.
+
+112
+00:05:28,242 --> 00:05:31,194
+Dizajne të ndryshëm, principi i njëjtë:
+
+113
+00:05:31,194 --> 00:05:32,759
+Ju ofroni strukturen, dhe nga aty
+
+114
+00:05:32,759 --> 00:05:36,598
+familjet e marrin përsipër.
+
+115
+00:05:36,598 --> 00:05:40,698
+Kështu që synimi i dizajnit,
+
+116
+00:05:40,697 --> 00:05:43,707
+duke u munduar ta kuptojmë
+dhe t'i japim përgjigje
+
+117
+00:05:43,708 --> 00:05:45,360
+kërcënimit "3S",
+
+118
+00:05:45,360 --> 00:05:46,826
+shkallëzim, shpejtësi dhe mungesë,
+
+119
+00:05:46,826 --> 00:05:50,309
+është të kanalizohet kapaciteti
+për ndërtim i vetë njerëzve.
+
+120
+00:05:50,309 --> 00:05:54,713
+Nuk do të mund të zgjidhim ekuacionin
+e një milion njerëzve për çdo javë
+
+121
+00:05:54,713 --> 00:05:59,399
+nëse nuk shfrytëzojmë
+fuqinë e vetë njerëzve për ndërtim.
+
+122
+00:05:59,399 --> 00:06:01,634
+Kështu që, me dizajnin e duhur,
+
+123
+00:06:01,634 --> 00:06:05,035
+lagjet e varfra mund të mos jenë problem,
+
+124
+00:06:05,035 --> 00:06:08,784
+por në të vërtetë
+zgjidhja e vetme e mundshme.
+
+125
+00:06:08,783 --> 00:06:11,819
+Rasti i dytë është si dizajni
+mund të kontribuojë
+
+126
+00:06:11,819 --> 00:06:13,871
+për qëndrueshmëri.
+
+127
+00:06:13,870 --> 00:06:16,263
+Në vitin 2012, hymë në konkurs për
+Qendrën Inovative Agelini,
+
+128
+00:06:16,264 --> 00:06:18,829
+Angelini Innovation Center
+
+129
+00:06:18,829 --> 00:06:20,841
+dhe qëllimi ishte të ndërtonim
+
+130
+00:06:20,841 --> 00:06:25,175
+mjedisin e duhur për krijim diturie.
+
+131
+00:06:25,175 --> 00:06:27,659
+Është e pranueshme
+që për një qëllim të tillë,
+
+132
+00:06:27,660 --> 00:06:29,196
+krijim diturie,
+
+133
+00:06:29,196 --> 00:06:31,783
+ndërveprimi mes njerëzve,
+kontakti i drejtperdrejtë,
+
+134
+00:06:31,783 --> 00:06:33,980
+është me rëndësi dhe pajtohemi me këtë.
+
+135
+00:06:33,980 --> 00:06:37,556
+Por për ne, pyetja e mjedisit të duhur
+
+136
+00:06:37,555 --> 00:06:39,721
+ishte pyetje shumë e fjalëpërfjalshme.
+
+137
+00:06:39,721 --> 00:06:41,841
+Donim të kishim hapësirë pune
+
+138
+00:06:41,841 --> 00:06:44,594
+me dritën e duhur,
+me temperaturën e duhur.
+
+139
+00:06:44,595 --> 00:06:46,477
+me ventilimin e duhur.
+
+140
+00:06:46,476 --> 00:06:48,554
+Kështu që pyetëm veten:
+
+141
+00:06:48,555 --> 00:06:51,144
+A na ndihmon në këtë kuptim
+
+142
+00:06:51,144 --> 00:06:53,255
+ndërtesa e zakonshme e zyrave?
+
+143
+00:06:53,255 --> 00:06:56,869
+Ja! A duket ajo ndërtesë e zakonshme?
+
+144
+00:06:56,870 --> 00:06:59,454
+Është përmbledhje katesh,
+
+145
+00:06:59,454 --> 00:07:01,360
+te vendosur njeri mbi tjetrin,
+
+146
+00:07:01,360 --> 00:07:04,401
+me nje berthame qendrore
+
+147
+00:07:04,401 --> 00:07:09,090
+me ashensor, shkallë, tuba, tela, çdo gjë
+
+148
+00:07:09,089 --> 00:07:12,676
+dhe më pas shtresë qelqi nga jashte
+
+149
+00:07:12,677 --> 00:07:16,552
+që për shkak të rrezatimit
+të drejtpërdrejtë të diellit
+
+150
+00:07:16,552 --> 00:07:21,761
+krijon nje efekt sere shumë të madh brenda.
+
+151
+00:07:21,761 --> 00:07:23,695
+Përveç kësaj, le të themi një person
+
+152
+00:07:23,694 --> 00:07:25,430
+qe punon në katin e shtatë
+
+153
+00:07:25,430 --> 00:07:28,141
+kalon çdo ditë nga kati i tretë,
+
+154
+00:07:28,141 --> 00:07:31,180
+por nuk e ka idenë
+
+155
+00:07:31,180 --> 00:07:32,908
+çka punon personi në atë kat.
+
+156
+00:07:32,908 --> 00:07:36,305
+Pra, menduam, ndoshta duhet të
+e kthejmë këtë skemë
+
+157
+00:07:36,305 --> 00:07:38,105
+nga jashtë brenda.
+
+158
+00:07:38,105 --> 00:07:39,927
+Dhe menduam,
+
+159
+00:07:39,927 --> 00:07:44,110
+le të bëjmë një atrium të hapur,
+
+160
+00:07:44,110 --> 00:07:45,999
+me boshllek ne qender,
+
+161
+00:07:45,999 --> 00:07:47,612
+me numrin e njëjtë të kateve,
+
+162
+00:07:47,612 --> 00:07:52,052
+por me muret dhe masën në perimetër,
+
+163
+00:07:52,052 --> 00:07:56,317
+kështu që kur dielli rrezon,
+
+164
+00:07:56,317 --> 00:08:02,444
+nuk ka ndikim drejtpërdrejt
+në qelq, por në mur.
+
+165
+00:08:02,444 --> 00:08:05,181
+Kur ke një atrium të hapur brenda,
+
+166
+00:08:05,180 --> 00:08:07,329
+je në gjendje të shohësh
+çfarë bëjnë të tjerët
+
+167
+00:08:07,329 --> 00:08:09,180
+nga brenda ndërtesës dhe ke mundësi
+
+168
+00:08:09,180 --> 00:08:11,379
+më të mirë për të kontrolluar dritën
+
+169
+00:08:11,379 --> 00:08:14,783
+dhe kur vendosni masën dhe muret
+
+170
+00:08:14,783 --> 00:08:16,439
+në perimetër, parandaloni
+
+171
+00:08:16,439 --> 00:08:19,872
+rrezatimin e drejtpërdrejt të diellit
+
+172
+00:08:19,872 --> 00:08:21,792
+Mund t'i hapni këto dritare
+
+173
+00:08:21,791 --> 00:08:24,687
+dhe të keni ndër-ventilim.
+
+174
+00:08:24,687 --> 00:08:27,622
+Ne thjesht i krijuam këto të hapura
+
+175
+00:08:27,622 --> 00:08:29,714
+në atë masë sa ato
+do të mund të funksiononin
+
+176
+00:08:29,714 --> 00:08:31,727
+si oborre te mbivendosura,
+
+177
+00:08:31,728 --> 00:08:33,471
+hapsira te jashtme
+
+178
+00:08:33,471 --> 00:08:37,134
+nëpër tërë lartësinë e ndërtesës.
+
+179
+00:08:37,134 --> 00:08:38,984
+Asnjë nga këto nuk është shkencë raketash.
+
+180
+00:08:38,984 --> 00:08:41,682
+Nuk nevojitet programim i sofistikuar.
+
+181
+00:08:41,682 --> 00:08:43,415
+S'kërkon ndonjë teknologji.
+
+182
+00:08:43,416 --> 00:08:48,838
+Ky është vetëm mendim
+praktik primitiv arkaik
+
+183
+00:08:48,837 --> 00:08:50,805
+dhe duke shfrytëzuar mendimin praktik,
+
+184
+00:08:50,806 --> 00:08:53,787
+ne kaluam nga
+
+185
+00:08:53,787 --> 00:08:56,127
+120 kilovat për metër katror në vit,
+
+186
+00:08:56,126 --> 00:08:58,298
+që është konsumim i zakonshëm i energjisë
+
+187
+00:08:58,298 --> 00:09:00,289
+për të freskuar një kullë xhami,
+
+188
+00:09:00,289 --> 00:09:04,620
+në 40 kilovat për metër katror në vit.
+
+189
+00:09:04,620 --> 00:09:06,897
+Kështu që me dizajnin e duhur,
+
+190
+00:09:06,897 --> 00:09:09,441
+qëndrueshmëria nuk është që tjetër veç
+
+191
+00:09:09,441 --> 00:09:13,173
+shfrytëzim rigoroz i mendimit praktik.
+
+192
+00:09:13,173 --> 00:09:16,146
+Rasti i fundit që dua të ndaj me ju
+është si dizajni
+
+193
+00:09:16,147 --> 00:09:18,442
+mund të ofrojë përgjigje
+më gjithpërfshirëse
+
+194
+00:09:18,442 --> 00:09:20,830
+kundër katastrofave natyrore.
+
+195
+00:09:20,830 --> 00:09:23,895
+Ju ndoshta e dini se Kili, në vitin 2010,
+
+196
+00:09:23,894 --> 00:09:27,699
+u godit nga një
+
+197
+00:09:27,700 --> 00:09:29,823
+termet 8.8 ballë dhe cunami
+
+198
+00:09:29,822 --> 00:09:31,697
+dhe u thirrëm të punonim
+
+199
+00:09:31,697 --> 00:09:33,939
+në rindërtimin e qytetit Constitucion,
+
+200
+00:09:33,940 --> 00:09:35,850
+në pjesën jugore të vendit.
+
+201
+00:09:35,850 --> 00:09:39,346
+Na u dhanë 100 ditë, tre muaj,
+
+202
+00:09:39,346 --> 00:09:41,263
+për të dizajnuar thuajse çdo gjë,
+nga ndërtesat publike
+
+203
+00:09:41,263 --> 00:09:43,580
+deri tek hapësirat publike,
+
+204
+00:09:43,580 --> 00:09:45,670
+sistemin e rrugeve, transportin, strehimin,
+
+205
+00:09:45,669 --> 00:09:48,423
+dhe kryesisht si të mbrojmë qytetin
+
+206
+00:09:48,423 --> 00:09:50,678
+nga cunamet në të ardhmen.
+
+207
+00:09:50,678 --> 00:09:53,828
+Kjo ishte e re në dizajnin urban kilian
+
+208
+00:09:53,828 --> 00:09:57,201
+dhe kishim disa alternativa të hapura.
+
+209
+00:09:57,201 --> 00:09:58,453
+E para:
+
+210
+00:09:58,453 --> 00:10:01,102
+Te ndaloheshin ndërtimet në katin perdhe.
+
+211
+00:10:01,102 --> 00:10:03,139
+Tridhjetë milion dollarë të shpenzuara
+
+212
+00:10:03,139 --> 00:10:05,524
+kryesisht në shpronësimin dhe
+konfiskimin e tokës.
+
+213
+00:10:05,524 --> 00:10:08,785
+Kjo është saktësisht ajo
+që po diskutohet sot në Japoni,
+
+214
+00:10:08,785 --> 00:10:10,832
+dhe nëse keni një popullatë
+të disciplinuar
+
+215
+00:10:10,832 --> 00:10:13,173
+si japonezët, kjo mund të funksionojë,
+
+216
+00:10:13,173 --> 00:10:14,658
+por ne e dimë se në Kili, kjo tokë
+
+217
+00:10:14,658 --> 00:10:18,471
+do të pushtohet ilegalisht sidoqoftë,
+
+218
+00:10:18,471 --> 00:10:22,543
+pra kjo zgjidhje ishte jo reale,
+e padëshiruar.
+
+219
+00:10:22,543 --> 00:10:25,936
+Alternativa e dytë:
+ndërtim i një muri të lartë
+
+220
+00:10:25,936 --> 00:10:28,253
+me infrastrukturë të rëndë
+për t'i rezistuar
+
+221
+00:10:28,253 --> 00:10:30,195
+energjisë së valëve.
+
+222
+00:10:30,195 --> 00:10:32,314
+Kjo alternative u lobua
+
+223
+00:10:32,313 --> 00:10:33,674
+nga kompanitë e mëdha ndërtimore,
+
+224
+00:10:33,674 --> 00:10:37,881
+sepse do të thoshte
+42 milion dollarë kontrata
+
+225
+00:10:37,881 --> 00:10:40,234
+dhe gjithashtu u pëlqye politikisht,
+
+226
+00:10:40,235 --> 00:10:44,226
+sepse nuk kërkonte
+shpronësim të tokës.
+
+227
+00:10:44,226 --> 00:10:46,976
+Por Japonia dëshmoi se
+tendenca për t'i rezistuar
+
+228
+00:10:46,976 --> 00:10:50,289
+fuqisë së natyrës, është e kotë.
+
+229
+00:10:50,289 --> 00:10:53,653
+Kështu që kjo alternativë
+ishte e papërgjegjshme.
+
+230
+00:10:53,653 --> 00:10:55,747
+Ashtu si në procesin e strehimit,
+
+231
+00:10:55,746 --> 00:10:57,623
+ne duhej të përfshinim komunitetin
+
+232
+00:10:57,624 --> 00:11:00,971
+në mënyrë që të gjenim
+një zgjidhje për këtë,
+
+233
+00:11:00,971 --> 00:11:04,144
+dhe filluam procesin e
+dizajnimit me pjesëmarrje.
+
+234
+00:11:04,144 --> 00:11:06,415
+(Video) [spanjisht] Altoparlant:
+Çfarë qyteti dëshironi?
+
+235
+00:11:06,416 --> 00:11:07,958
+Votoni për Konstitucion.
+
+236
+00:11:07,957 --> 00:11:10,262
+Shkoni tek Shtëpia e Hapur
+dhe shprehni mendimin tuaj.
+
+237
+00:11:10,263 --> 00:11:12,436
+Merrni pjesë!
+
+238
+00:11:12,436 --> 00:11:14,509
+Peshkatari: Jam peshkatar.
+
+239
+00:11:14,509 --> 00:11:16,619
+25 peshkatarë punojnë për mua.
+
+240
+00:11:16,619 --> 00:11:18,958
+Ku t'i shpie ata? Në mal?
+
+241
+00:11:18,957 --> 00:11:22,342
+Burri: Pse s'mund të kemi
+mbrojtje betoni?
+
+242
+00:11:22,342 --> 00:11:24,250
+Te bërë mirë, kuptohet.
+
+243
+00:11:24,250 --> 00:11:26,140
+Burri 2: Unë jam historia e Constitucion.
+
+244
+00:11:26,140 --> 00:11:30,100
+Dhe ju keni ardhur të më thoni se
+s'mund të vazhdoj të jetoj këtu?
+
+245
+00:11:30,100 --> 00:11:32,298
+E tërë familja ime ka jetuar këtu.
+
+246
+00:11:32,298 --> 00:11:33,770
+I kam rritur fëmijët këtu dhe
+
+247
+00:11:33,770 --> 00:11:35,855
+fëmijët e mi gjithashtu
+
+248
+00:11:35,855 --> 00:11:38,364
+rrisin fëmijët e tyre këtu
+dhe nipat e mi po ashtu.
+
+249
+00:11:38,364 --> 00:11:40,889
+Por përse ma impononi këtë?
+
+250
+00:11:40,889 --> 00:11:42,766
+Ju! Ju po ma impononi këtë!
+
+251
+00:11:42,767 --> 00:11:44,558
+S'jam i autorizuar të ndërtoj
+në zonën e rrezikut.
+
+252
+00:11:44,557 --> 00:11:46,144
+Ai vetë thotë këtë.
+
+253
+00:11:46,144 --> 00:11:48,230
+Burri 3: Jo, jo, jo, Nieves...
+
+254
+00:11:50,940 --> 00:11:53,228
+Alehandro Aravena: Nuk e di nëse mundët
+
+255
+00:11:53,227 --> 00:11:55,512
+t'i lexoni titrat, por mund të kuptoni
+
+256
+00:11:55,513 --> 00:11:57,157
+nga gjuha e trupit
+
+257
+00:11:57,157 --> 00:11:58,435
+qe dizajni pjesmarrës
+
+258
+00:11:58,434 --> 00:12:00,758
+nuk është një gjë "hipi", romantike,
+
+259
+00:12:00,759 --> 00:12:04,009
+ejani të gjithë të ënderrojme së bashku
+
+260
+00:12:04,009 --> 00:12:06,076
+rreth së ardhmes së qytetit.
+
+261
+00:12:06,076 --> 00:12:09,570
+Në të vërtetë është - (Duartrokitje)
+
+262
+00:12:09,570 --> 00:12:11,970
+Bile as me familjet
+
+263
+00:12:11,970 --> 00:12:15,016
+qe mundohen të gjejnë përgjigjen e duhur.
+
+264
+00:12:15,015 --> 00:12:17,828
+Kryesisht është të identifikosh
+me precizion
+
+265
+00:12:17,828 --> 00:12:19,899
+cila është pyetja e duhur.
+
+266
+00:12:19,899 --> 00:12:21,986
+Nuk ka më keq se t'i përgjigjesh saktë
+
+267
+00:12:21,986 --> 00:12:24,091
+pyetjes së gabuar.
+
+268
+00:12:24,091 --> 00:12:27,409
+Kështu që ishte shumë
+e qartë pas këtij procesi
+
+269
+00:12:27,409 --> 00:12:30,940
+qe, ne do trembeshim
+dhe të largoheshim andej,
+
+270
+00:12:30,941 --> 00:12:33,517
+sepse ishtë shumë tensionuar,
+
+271
+00:12:33,517 --> 00:12:35,543
+nëse vazhdonim edhe më tej me pyetjet,
+
+272
+00:12:35,543 --> 00:12:36,937
+cfare gje tjetër ju shqeteson?
+
+273
+00:12:36,937 --> 00:12:38,691
+Çfarë probleme tjera keni
+
+274
+00:12:38,691 --> 00:12:41,273
+dhe dëshironi që ne të merremi me to
+tani që qyteti
+
+275
+00:12:41,273 --> 00:12:45,595
+duhet të rimendohet që nga fillimi?
+
+276
+00:12:45,595 --> 00:12:47,791
+Dhe çfarë thanë ishte, shih,
+
+277
+00:12:47,791 --> 00:12:50,576
+mirë qyteti të mbrohet
+nga cunamet e së ardhmes,
+
+278
+00:12:50,576 --> 00:12:55,333
+ne vërtetë e vlerësojmë këtë, por i
+radhës do të vije në, sa, 20 vite?
+
+279
+00:12:55,333 --> 00:12:57,426
+Por çdo vit kemi probleme
+
+280
+00:12:57,427 --> 00:13:00,290
+me vërshimet për shkak të shiut.
+
+281
+00:13:00,289 --> 00:13:02,490
+Për më tepër, ne jemi në mes të
+
+282
+00:13:02,490 --> 00:13:04,288
+rajonit pyjor të vendit
+
+283
+00:13:04,288 --> 00:13:07,109
+dhe hapësira jonë publike ta shpif.
+
+284
+00:13:07,109 --> 00:13:10,900
+Është e varfër dhe është e rrallë.
+
+285
+00:13:10,899 --> 00:13:13,483
+Dhe origjina e qytetit, identiteti ynë,
+
+286
+00:13:13,484 --> 00:13:16,370
+në të vërtetë nuk është e lidhur
+me ndërtesat që bien,
+
+287
+00:13:16,370 --> 00:13:17,984
+lidhet me lumin,
+
+288
+00:13:17,984 --> 00:13:20,798
+por lumi nuk ka qasje publike,
+
+289
+00:13:20,798 --> 00:13:24,500
+sepse brigjet e tij jane prona private.
+
+290
+00:13:24,500 --> 00:13:29,302
+Kështu që menduam se duhet të
+prodhojmë alternativë të tretë,
+
+291
+00:13:29,302 --> 00:13:33,846
+dhe pergjigjia jonë qe ishte kundër
+rreziqeve gjeografike,
+
+292
+00:13:33,846 --> 00:13:37,466
+te kishim përgjigje gjeografike.
+
+293
+00:13:37,466 --> 00:13:41,254
+Po sikur mes qytetit
+
+294
+00:13:43,600 --> 00:13:45,983
+dhe detit
+
+295
+00:13:48,590 --> 00:13:51,768
+te kishte një pyll,
+
+296
+00:13:51,768 --> 00:13:54,354
+një pyll i cili nuk tenton të rezistojë
+
+297
+00:13:54,354 --> 00:13:56,211
+energjinë e natyrës,
+
+298
+00:13:56,211 --> 00:14:00,270
+por e harxhon atë duke paraqitur fërkim?
+
+299
+00:14:00,270 --> 00:14:04,163
+Pyll i cili mund të jetë në gjendje
+të absorbojë ujin
+
+300
+00:14:04,163 --> 00:14:06,514
+dhe të parandalojë vërshimin?
+
+301
+00:14:06,514 --> 00:14:11,598
+Kjo mund të paguaje borxhin historik
+të hapësirës publike
+
+302
+00:14:11,599 --> 00:14:14,242
+dhe atëherë mund të ofrojë, përfundimisht,
+
+303
+00:14:14,241 --> 00:14:16,659
+qasje demokratike te lumi.
+
+304
+00:14:16,659 --> 00:14:19,600
+Kështu, si përfundim i
+projektimit pjesmarrës
+
+305
+00:14:19,600 --> 00:14:22,604
+zgjedhja u verifikua politikisht
+dhe në aspekt shoqëror,
+
+306
+00:14:22,604 --> 00:14:25,715
+por akoma ishte problemi i shpenzimeve:
+
+307
+00:14:25,715 --> 00:14:28,918
+48 milion dollarë.
+
+308
+00:14:28,918 --> 00:14:31,322
+Atehere bëmë nje studim
+
+309
+00:14:31,322 --> 00:14:33,875
+në sistemin publik të investimeve
+
+310
+00:14:33,875 --> 00:14:36,190
+dhe mësuam se ishin tri ministri
+
+311
+00:14:36,190 --> 00:14:39,333
+me tre projekte per të njëjtin vend,
+
+312
+00:14:39,332 --> 00:14:42,297
+duke mos ditur ekzistencen
+e projekteve tjera.
+
+313
+00:14:42,297 --> 00:14:46,634
+Shuma e tyre ishte: 52 milion dollarë.
+
+314
+00:14:46,634 --> 00:14:49,310
+Fuqia e dizajnit të sintezës
+
+315
+00:14:49,309 --> 00:14:51,425
+tenton të bëjë shfrytëzim më efikas
+
+316
+00:14:51,426 --> 00:14:54,283
+të burimeve të pakta në qytete,
+
+317
+00:14:54,283 --> 00:14:57,696
+që nuk janë paratë por koordinimi.
+
+318
+00:14:57,696 --> 00:15:00,478
+Duke bërë kështu,
+ne ishim në gjendje të kursenim
+
+319
+00:15:00,477 --> 00:15:03,319
+katër milion dollarë
+dhe kjo është përse pylli
+
+320
+00:15:03,320 --> 00:15:06,900
+është tani në realizim e sipër.
+
+321
+00:15:06,899 --> 00:15:09,515
+(Duartrokitje)
+
+322
+00:15:09,515 --> 00:15:13,139
+Le të jetë fuqia e vetë-realizimit,
+
+323
+00:15:13,139 --> 00:15:16,245
+fuqia e mendimit praktik,
+
+324
+00:15:16,245 --> 00:15:19,350
+ose fuqia e natyrës, të gjitha këto forca
+
+325
+00:15:19,350 --> 00:15:22,781
+duhet përkthyer në formë
+
+326
+00:15:22,780 --> 00:15:26,447
+dhe eshte kjo formë qe modelon dhe dizajnon
+
+327
+00:15:26,447 --> 00:15:29,677
+nuk është çimento, tulla, apo druri.
+
+328
+00:15:29,677 --> 00:15:31,922
+Është vetë jeta.
+
+329
+00:15:31,922 --> 00:15:34,259
+Fuqia e sintezës së projektimit
+
+330
+00:15:34,259 --> 00:15:36,679
+është vetëm një tentim për të futur
+
+331
+00:15:36,679 --> 00:15:40,311
+në brendinë e thellë të arkitekturës
+
+332
+00:15:40,312 --> 00:15:42,180
+fuqinë e jetës.
+
+333
+00:15:42,179 --> 00:15:44,968
+Faleminderit shumë.
+
+334
+00:15:44,969 --> 00:15:48,890
+(Duartrokitje)
+

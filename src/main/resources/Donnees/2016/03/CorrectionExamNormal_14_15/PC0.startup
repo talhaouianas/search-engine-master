@@ -1,0 +1,4 @@
+ifconfig eth0 196.16.1.2 up
+
+#Ajout d'une route par défaut
+route add default gw 196.16.1.1

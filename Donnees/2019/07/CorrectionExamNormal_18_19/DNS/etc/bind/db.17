@@ -1,0 +1,18 @@
+;
+; Fichier BIND inverse pour le réseau local 17.6.19.0
+;
+$TTL	604800
+@	IN	SOA	fso.ump.ma. dns.fso.ump.ma. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	www.
+2	IN	PTR	dns.fso.ump.ma.
+3	IN	PTR	ftp.fso.ump.ma.
+1	IN	PTR	www.fso.ump.ma.
+1	IN	PTR	dhcp.fso.ump.ma.
+
+

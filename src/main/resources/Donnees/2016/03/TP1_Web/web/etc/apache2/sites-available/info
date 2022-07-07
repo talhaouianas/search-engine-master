@@ -1,0 +1,5 @@
+<VirtualHost 192.168.1.254:80>
+    DocumentRoot /var/www/info
+    ServerName  info-smi.ma
+    ServerAlias www.info-smi.ma
+</VirtualHost>

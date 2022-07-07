@@ -1,0 +1,11 @@
+ifconfig eth0 192.168.1.1 up
+ifconfig eth1 194.1.1.1 up
+
+
+#Ajout du réseau 196.16.1.0/24 à la table de routage 
+route add  -net 196.16.1.0/24 gw 194.1.1.2
+
+
+#démarrage du serveur DHCP
+/etc/init.d/dhcp3-server start
+

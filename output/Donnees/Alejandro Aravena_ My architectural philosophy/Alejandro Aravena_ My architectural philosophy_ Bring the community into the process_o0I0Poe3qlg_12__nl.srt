@@ -1,0 +1,1393 @@
+﻿1
+00:00:00,000 --> 00:00:12,000
+Vertaald door: Petra van der Burg
+Nagekeken door: Axel Saffran
+
+2
+00:00:12,724 --> 00:00:15,428
+Als er één kracht ligt in een ontwerp,
+
+3
+00:00:15,428 --> 00:00:17,771
+dan is het wel de kracht van de synthese.
+
+4
+00:00:17,771 --> 00:00:19,466
+Hoe complexer de opgave,
+
+5
+00:00:19,466 --> 00:00:21,967
+hoe groter de roep om eenvoud.
+
+6
+00:00:21,966 --> 00:00:24,303
+Ik laat jullie drie voorbeelden zien,
+
+7
+00:00:24,303 --> 00:00:26,113
+waar we hebben geprobeerd
+
+8
+00:00:26,114 --> 00:00:29,117
+de ontwerpkracht van
+de synthese in te zetten.
+
+9
+00:00:29,117 --> 00:00:33,218
+Laten we beginnen met
+de mondiale verstedelijkingsopgave.
+
+10
+00:00:33,218 --> 00:00:36,896
+Het is een feit dat mensen
+naar de steden trekken,
+
+11
+00:00:36,896 --> 00:00:40,361
+en ook al druist het tegen je gevoel in,
+dat is een goede zaak.
+
+12
+00:00:40,360 --> 00:00:44,443
+Er is bewijs dat mensen
+in steden beter af zijn.
+
+13
+00:00:44,444 --> 00:00:46,323
+Toch is er een probleem dat ik
+
+14
+00:00:46,323 --> 00:00:48,899
+het monster van de drie S'en noem.
+
+15
+00:00:48,899 --> 00:00:51,981
+De Schaal waarop en de Snelheid
+en Schaarste van middelen
+
+16
+00:00:51,981 --> 00:00:54,826
+waarmee we moeten reageren
+op dit fenomeen
+
+17
+00:00:54,826 --> 00:00:57,155
+kent geen precedent.
+
+18
+00:00:57,155 --> 00:00:58,853
+Om jullie een idee te geven:
+
+19
+00:00:58,853 --> 00:01:01,879
+van de huidige drie miljard stedelingen
+
+20
+00:01:01,880 --> 00:01:05,271
+leeft één miljard onder de armoedegrens.
+
+21
+00:01:05,271 --> 00:01:10,989
+In 2030 zullen
+van de vijf miljard stedelingen
+
+22
+00:01:10,989 --> 00:01:14,836
+twee miljard onder de armoedegrens leven.
+
+23
+00:01:14,837 --> 00:01:19,266
+Dat betekent dat we...
+
+24
+00:01:21,605 --> 00:01:28,445
+... een stad voor één miljoen mensen
+moeten bouwen, wekelijks ...
+
+25
+00:01:30,114 --> 00:01:35,671
+... voor een bedrag van
+tienduizend dollar per gezin,
+
+26
+00:01:35,671 --> 00:01:37,481
+gedurende de komende vijftien jaar.
+
+27
+00:01:37,481 --> 00:01:40,206
+Wekelijks een stad voor
+één miljoen mensen,
+
+28
+00:01:40,206 --> 00:01:42,260
+voor tienduizend dollar per gezin.
+
+29
+00:01:42,260 --> 00:01:43,995
+Als we geen oplossing vinden,
+
+30
+00:01:43,995 --> 00:01:46,163
+betekent dit niet dat de toeloop stopt.
+
+31
+00:01:46,162 --> 00:01:47,951
+Mensen komen hoe dan ook,
+
+32
+00:01:47,951 --> 00:01:50,957
+maar zullen in sloppenwijken, favela's
+
+33
+00:01:50,957 --> 00:01:52,367
+en informele dorpen wonen.
+
+34
+00:01:52,367 --> 00:01:55,625
+Dus, wat staat ons te doen?
+Misschien komt het antwoord
+
+35
+00:01:55,626 --> 00:01:58,750
+uit de favela's en sloppenwijken zelf.
+
+36
+00:01:59,840 --> 00:02:02,573
+Een aanwijzing ligt mogelijk in de vraag
+
+37
+00:02:02,572 --> 00:02:05,039
+die ons tien jaar geleden werd gesteld.
+
+38
+00:02:05,040 --> 00:02:08,871
+Men vroeg ons honderd gezinnen
+van onderdak te voorzien,
+
+39
+00:02:08,871 --> 00:02:12,368
+die illegaal een halve hectare bewoonden
+
+40
+00:02:12,368 --> 00:02:16,133
+in het centrum van Iquique
+in het noorden van Chili.
+
+41
+00:02:16,133 --> 00:02:19,061
+We hadden hiervoor
+tienduizend dollar subsidie,
+
+42
+00:02:19,062 --> 00:02:22,176
+waarvan we het land moesten kopen,
+
+43
+00:02:22,175 --> 00:02:23,908
+de infrastructuur aanleggen
+
+44
+00:02:23,908 --> 00:02:27,229
+en de huizen bouwen,
+die in het gunstigste geval
+
+45
+00:02:27,229 --> 00:02:30,893
+ongeveer veertig vierkante
+meter zouden zijn.
+
+46
+00:02:30,894 --> 00:02:33,099
+Trouwens, zeiden ze:
+
+47
+00:02:33,098 --> 00:02:36,929
+de grondprijs is, vanwege
+de locatie in het stadscentrum,
+
+48
+00:02:36,930 --> 00:02:38,550
+drie keer zo hoog
+
+49
+00:02:38,550 --> 00:02:42,108
+als gebruikelijk betaalbaar
+is bij sociale woningbouw.
+
+50
+00:02:42,108 --> 00:02:44,334
+Omdat de opgave zo moeilijk was,
+
+51
+00:02:44,334 --> 00:02:46,515
+besloten we de gezinnen te betrekken
+
+52
+00:02:46,515 --> 00:02:50,611
+bij het doorgronden van de beperkingen
+
+53
+00:02:50,611 --> 00:02:53,192
+en begonnen we een
+participatief ontwerpproces
+
+54
+00:02:53,193 --> 00:02:56,840
+en deden we er
+een marktverkenning.
+
+55
+00:02:56,840 --> 00:02:58,538
+In vrijstaande huizen
+
+56
+00:02:58,538 --> 00:03:01,493
+konden dertig gezinnen worden gehuisvest.
+
+57
+00:03:01,493 --> 00:03:05,455
+Rijtjeshuizen, zestig gezinnen.
+
+58
+00:03:05,455 --> 00:03:07,997
+[100 gezinnen]
+De enige manier om ze allemaal
+
+59
+00:03:07,997 --> 00:03:10,919
+te huisvesten was de hoogte in te bouwen.
+
+60
+00:03:10,919 --> 00:03:12,551
+Ze dreigden ons
+
+61
+00:03:12,551 --> 00:03:14,859
+in hongerstaking te gaan
+
+62
+00:03:14,860 --> 00:03:17,158
+als we dit ook maar als oplossing
+
+63
+00:03:17,157 --> 00:03:18,583
+zouden durven aandragen,
+
+64
+00:03:18,584 --> 00:03:23,115
+want die flatjes zouden
+niet kunnen worden uitgebouwd.
+
+65
+00:03:23,115 --> 00:03:25,707
+De conclusie van de gezinnen was --
+
+66
+00:03:25,707 --> 00:03:28,135
+belangrijk: dus niet
+onze conclusie --
+
+67
+00:03:28,135 --> 00:03:30,206
+... dat we een probleem hadden.
+
+68
+00:03:30,206 --> 00:03:31,944
+We moesten innoveren.
+
+69
+00:03:31,944 --> 00:03:34,610
+Wat hebben we gedaan?
+
+70
+00:03:35,719 --> 00:03:39,618
+Een middenklassegezin
+
+71
+00:03:39,618 --> 00:03:42,498
+kan behoorlijk goed leven
+
+72
+00:03:42,498 --> 00:03:44,849
+op ongeveer tachtig vierkante meter.
+
+73
+00:03:44,849 --> 00:03:46,521
+Als er geen geld is
+
+74
+00:03:46,521 --> 00:03:47,864
+reduceert de markt
+
+75
+00:03:47,864 --> 00:03:52,122
+de grootte van het huis
+
+76
+00:03:52,122 --> 00:03:54,971
+tot veertig vierkante meter.
+
+77
+00:03:54,971 --> 00:03:57,539
+We zeiden: stel nou ...
+
+78
+00:04:00,844 --> 00:04:05,538
+... dat we een huis
+van veertig vierkante meter
+
+79
+00:04:05,538 --> 00:04:08,529
+niet beschouwen als een klein huisje,
+
+80
+00:04:08,528 --> 00:04:13,191
+maar als zijnde
+de helft van een goed huis?
+
+81
+00:04:13,191 --> 00:04:15,587
+Als je het probleem herdefinieert
+
+82
+00:04:15,587 --> 00:04:17,663
+tot de helft van een goed huis
+
+83
+00:04:17,663 --> 00:04:19,298
+in plaats van een kleintje,
+
+84
+00:04:19,298 --> 00:04:22,507
+dan is de hamvraag: welke helft bouwen we?
+
+85
+00:04:22,507 --> 00:04:25,209
+We dachten dat we met de publieke middelen
+
+86
+00:04:25,209 --> 00:04:30,618
+die helft moesten bouwen die
+de gezinnen zelf niet zou lukken.
+
+87
+00:04:30,619 --> 00:04:33,147
+We onderkenden vijf ontwerpcondities
+
+88
+00:04:33,146 --> 00:04:35,504
+voor het moeilijke gedeelte van het huis
+
+89
+00:04:35,504 --> 00:04:38,891
+en gingen ermee terug naar
+de gezinnen, om twee dingen te doen:
+
+90
+00:04:38,891 --> 00:04:42,600
+krachten te bundelen en taken te verdelen.
+
+91
+00:04:42,600 --> 00:04:45,584
+Ons ontwerp hield het midden tussen
+
+92
+00:04:45,584 --> 00:04:48,264
+een gebouw en een woning.
+
+93
+00:04:48,264 --> 00:04:50,356
+Als gebouw voorzag het in aanschaf
+
+94
+00:04:50,357 --> 00:04:53,349
+van dure grond op een goede locatie.
+
+95
+00:04:53,348 --> 00:04:56,560
+Als huis kon het uitgebouwd worden.
+
+96
+00:04:56,560 --> 00:04:59,853
+Als de mensen hun netwerk
+en banen zouden behouden,
+
+97
+00:04:59,853 --> 00:05:02,639
+omdat ze niet werden
+verbannen naar buitenwijken
+
+98
+00:05:02,639 --> 00:05:04,532
+om een huis te krijgen,
+
+99
+00:05:04,533 --> 00:05:08,980
+wisten we, dat de uitbouw
+gelijk zou starten.
+
+100
+00:05:08,980 --> 00:05:13,536
+De oorspronkelijke sociale woningbouw
+
+101
+00:05:13,536 --> 00:05:17,930
+transformeerde door de inzet van de gezinnen
+
+102
+00:05:17,930 --> 00:05:20,665
+in enkele weken tot middenklassewoningen.
+
+103
+00:05:20,665 --> 00:05:22,439
+Dit was ons eerste project
+
+104
+00:05:22,439 --> 00:05:24,766
+in Iquique, tien jaar geleden.
+
+105
+00:05:24,766 --> 00:05:28,242
+Dit is ons meest recente project in Chili.
+
+106
+00:05:28,242 --> 00:05:31,194
+Andere ontwerpen met het zelfde principe:
+
+107
+00:05:31,194 --> 00:05:32,960
+Je voorziet in het raamwerk
+
+108
+00:05:32,959 --> 00:05:36,597
+en vanaf dan nemen de gezinnen het over.
+
+109
+00:05:37,247 --> 00:05:40,108
+Het doel van ontwerpen --
+
+110
+00:05:40,108 --> 00:05:45,168
+de poging tot begrijpen en oplossen
+van de puzzel van de drie S'en:
+
+111
+00:05:45,168 --> 00:05:46,756
+Schaal, Snelheid en Schaarste --
+
+112
+00:05:46,755 --> 00:05:50,718
+leidt tot het aanboren van de eigen
+bouwcapaciteiten van de mensen.
+
+113
+00:05:50,718 --> 00:05:55,153
+We lossen het probleem van die
+één miljoen mensen per week niet op
+
+114
+00:05:55,153 --> 00:05:59,399
+als we niet de bouwkracht
+van de mensen zelf aanspreken.
+
+115
+00:05:59,399 --> 00:06:01,634
+Dus, met het juiste ontwerp
+
+116
+00:06:01,634 --> 00:06:05,305
+zijn sloppenwijken en favela's
+misschien niet het probleem,
+
+117
+00:06:05,305 --> 00:06:08,783
+maar feitelijk
+de enig mogelijke oplossing.
+
+118
+00:06:08,783 --> 00:06:12,098
+Het tweede voorbeeld is hoe
+ontwerpen een bijdrage kan leveren
+
+119
+00:06:12,098 --> 00:06:13,870
+aan duurzaamheid.
+
+120
+00:06:13,870 --> 00:06:16,543
+In 2012 deden we mee aan een prijsvraag
+
+121
+00:06:16,543 --> 00:06:18,829
+voor het Angelini Innovatie Centrum.
+
+122
+00:06:18,829 --> 00:06:20,451
+Het doel was
+
+123
+00:06:20,451 --> 00:06:24,526
+om een geschikte omgeving
+voor kenniscreatie te bouwen.
+
+124
+00:06:25,175 --> 00:06:27,430
+Algemeen wordt aangenomen
+
+125
+00:06:27,430 --> 00:06:29,196
+dat voor kenniscreatie
+
+126
+00:06:29,196 --> 00:06:31,783
+persoonlijke interactie van mens tot mens
+
+127
+00:06:31,783 --> 00:06:34,050
+belangrijk is, en dat vonden wij ook.
+
+128
+00:06:34,050 --> 00:06:39,545
+We namen de vraag om
+een goede omgeving erg letterlijk.
+
+129
+00:06:39,545 --> 00:06:41,951
+We wilden een werkomgeving
+
+130
+00:06:41,951 --> 00:06:44,594
+met het juiste licht,
+de juiste temperatuur
+
+131
+00:06:44,595 --> 00:06:46,477
+en de juiste lucht.
+
+132
+00:06:46,476 --> 00:06:48,554
+Daarom vroegen we ons af:
+
+133
+00:06:48,555 --> 00:06:51,305
+draagt een standaard kantoorgebouw
+
+134
+00:06:51,305 --> 00:06:53,256
+daar aan bij?
+
+135
+00:06:53,255 --> 00:06:56,869
+Hoe ziet zo'n gebouw er
+normaalgesproken eigenlijk uit?
+
+136
+00:06:56,870 --> 00:06:59,454
+Het is een verzameling van verdiepingen,
+
+137
+00:06:59,454 --> 00:07:01,360
+meerdere boven elkaar,
+
+138
+00:07:01,360 --> 00:07:04,401
+met een kern in het midden,
+
+139
+00:07:04,401 --> 00:07:09,090
+met liften, trappen, buizen,
+bedrading etcetera
+
+140
+00:07:09,089 --> 00:07:12,896
+en een glazen gevel aan de buitenkant.
+
+141
+00:07:12,896 --> 00:07:16,552
+Die zorgt door directe zoninstraling
+
+142
+00:07:16,552 --> 00:07:21,120
+binnen voor een groot broeikaseffect.
+
+143
+00:07:21,120 --> 00:07:23,694
+Daarbovenop komt --
+bedenk dat een man
+
+144
+00:07:23,694 --> 00:07:25,430
+die op de zesde verdieping werkt,
+
+145
+00:07:25,430 --> 00:07:28,141
+elke dag over de tweede verdieping loopt,
+
+146
+00:07:28,141 --> 00:07:31,180
+maar geen idee heeft waar
+de man op die verdieping
+
+147
+00:07:31,180 --> 00:07:32,908
+aan werkt.
+
+148
+00:07:32,908 --> 00:07:36,305
+Dus dachten we:
+misschien moeten we dit schema
+
+149
+00:07:36,305 --> 00:07:38,105
+binnenstebuiten keren.
+
+150
+00:07:38,105 --> 00:07:39,927
+We gingen uit
+
+151
+00:07:39,927 --> 00:07:44,110
+van een open atrium,
+
+152
+00:07:44,110 --> 00:07:45,999
+een holle kern,
+
+153
+00:07:45,999 --> 00:07:47,612
+dezelfde verdiepingen,
+
+154
+00:07:47,612 --> 00:07:52,052
+maar de muren en de massa
+aan de buitenzijden,
+
+155
+00:07:52,052 --> 00:07:56,317
+zodat de zon op het gebouw
+
+156
+00:07:56,317 --> 00:08:02,444
+niet op de ramen schijnt,
+maar op een muur.
+
+157
+00:08:02,444 --> 00:08:05,181
+Door het open atrium binnenin,
+
+158
+00:08:05,180 --> 00:08:07,329
+kun je zien waar anderen mee bezig zijn
+
+159
+00:08:07,329 --> 00:08:09,180
+van binnenuit het gebouw
+
+160
+00:08:09,180 --> 00:08:11,509
+en kun je het licht beter regelen.
+
+161
+00:08:11,509 --> 00:08:14,783
+En als je de massa en de muren
+
+162
+00:08:14,783 --> 00:08:16,439
+aan de buitenzijde plaatst,
+
+163
+00:08:16,439 --> 00:08:19,872
+voorkom je directe zoninstraling.
+
+164
+00:08:19,872 --> 00:08:22,002
+Als je de ramen opent
+
+165
+00:08:22,002 --> 00:08:24,848
+kan het goed doorluchten.
+
+166
+00:08:24,848 --> 00:08:27,223
+We hebben deze openingen
+
+167
+00:08:27,223 --> 00:08:28,935
+zo groot gemaakt
+
+168
+00:08:28,935 --> 00:08:32,018
+dat ze kunnen dienen
+als hooggelegen pleinen,
+
+169
+00:08:32,018 --> 00:08:36,612
+buitenruimtes verspreid over
+de hele hoogte van het gebouw.
+
+170
+00:08:37,261 --> 00:08:38,983
+Dit is geen hogere wiskunde.
+
+171
+00:08:38,984 --> 00:08:41,643
+Er is geen geavanceerd
+programma voor nodig.
+
+172
+00:08:41,643 --> 00:08:43,906
+Het heeft niks met
+technologie te maken.
+
+173
+00:08:43,905 --> 00:08:48,757
+Dit is gewoon oud, primitief,
+gezond verstand.
+
+174
+00:08:48,758 --> 00:08:51,186
+Door ons gezonde verstand te gebruiken
+
+175
+00:08:51,186 --> 00:08:53,787
+gingen we van 120 kilowatt
+
+176
+00:08:53,787 --> 00:08:56,127
+per vierkante meter per jaar,
+
+177
+00:08:56,126 --> 00:08:58,298
+het normale energieverbruik
+
+178
+00:08:58,298 --> 00:09:00,480
+voor het koelen van een glazen toren,
+
+179
+00:09:00,480 --> 00:09:04,620
+naar 40 kilowatt per
+vierkante meter per jaar.
+
+180
+00:09:04,620 --> 00:09:06,527
+Dus, bij het juiste ontwerp,
+
+181
+00:09:06,527 --> 00:09:09,741
+is duurzaamheid niets
+anders dan rigoreus gebruik
+
+182
+00:09:09,740 --> 00:09:12,283
+van het gezonde verstand.
+
+183
+00:09:13,173 --> 00:09:16,146
+Het laatste voorbeeld is
+van hoe een ontwerp
+
+184
+00:09:16,147 --> 00:09:18,812
+een uitgebreider antwoord kan bieden
+
+185
+00:09:18,812 --> 00:09:20,830
+tegen natuurrampen.
+
+186
+00:09:20,830 --> 00:09:23,195
+Misschien wisten jullie dat in 2010,
+
+187
+00:09:23,195 --> 00:09:25,775
+Chili werd getroffen door een aardbeving
+
+188
+00:09:25,774 --> 00:09:28,549
+met een kracht van 8,8
+op de schaal van Richter
+
+189
+00:09:28,549 --> 00:09:29,822
+en een tsunami.
+
+190
+00:09:29,822 --> 00:09:31,697
+We werden gevraagd
+
+191
+00:09:31,697 --> 00:09:33,939
+voor de reconstructie van Constitución
+
+192
+00:09:33,940 --> 00:09:35,850
+in het zuiden van het land.
+
+193
+00:09:35,850 --> 00:09:39,346
+We kregen honderd dagen, drie maanden,
+
+194
+00:09:39,346 --> 00:09:41,263
+om bijna alles te ontwerpen.
+
+195
+00:09:41,263 --> 00:09:43,580
+Van openbare gebouwen tot openbare ruimte,
+
+196
+00:09:43,580 --> 00:09:45,670
+stratenpatroon, vervoer, huisvesting
+
+197
+00:09:45,669 --> 00:09:48,503
+en vooral hoe de stad te beschermen
+
+198
+00:09:48,504 --> 00:09:50,678
+tegen toekomstige tsunami's.
+
+199
+00:09:50,678 --> 00:09:53,828
+Dit was nieuw in het
+Chileense stedelijke ontwerpen
+
+200
+00:09:53,828 --> 00:09:57,201
+en er hingen een paar
+alternatieven in de lucht.
+
+201
+00:09:57,201 --> 00:09:58,453
+De eerste:
+
+202
+00:09:58,453 --> 00:10:01,102
+verbied vestiging op de rampplek.
+
+203
+00:10:01,102 --> 00:10:03,509
+Dertig miljoen dollar ging dan vooral
+
+204
+00:10:03,509 --> 00:10:05,524
+naar landonteigening.
+
+205
+00:10:05,524 --> 00:10:08,785
+Dit is wat nu in Japan wordt overwogen
+
+206
+00:10:08,785 --> 00:10:10,832
+en met een gedisciplineerde bevolking,
+
+207
+00:10:10,832 --> 00:10:13,173
+zoals de Japanse, zou dat kunnen werken,
+
+208
+00:10:13,173 --> 00:10:14,807
+maar we weten dat in Chili
+
+209
+00:10:14,807 --> 00:10:18,471
+dat land hoe dan ook
+illegaal zou worden bevolkt.
+
+210
+00:10:18,471 --> 00:10:22,543
+Dus dit alternatief was
+onrealistisch en onwenselijk.
+
+211
+00:10:22,543 --> 00:10:26,125
+Tweede alternatief: bouw een grote muur,
+
+212
+00:10:26,125 --> 00:10:27,452
+grote werken
+
+213
+00:10:27,452 --> 00:10:30,194
+om de energie van
+de golven te weerstaan.
+
+214
+00:10:30,195 --> 00:10:32,314
+Dit alternatief had de lobby
+
+215
+00:10:32,313 --> 00:10:33,674
+van grote aannemers,
+
+216
+00:10:33,674 --> 00:10:37,881
+die er 42 miljoen dollar in contracten
+uit konden slepen.
+
+217
+00:10:37,881 --> 00:10:40,234
+Het was ook politiek favoriet,
+
+218
+00:10:40,235 --> 00:10:44,226
+omdat geen landonteigening nodig was.
+
+219
+00:10:44,226 --> 00:10:46,326
+Maar Japan liet zien dat
+
+220
+00:10:46,326 --> 00:10:50,289
+de natuurkrachten proberen
+te weerstaan nutteloos is.
+
+221
+00:10:50,289 --> 00:10:53,653
+Dus dit was een onverantwoord alternatief.
+
+222
+00:10:53,653 --> 00:10:55,747
+Net als bij huisvesting,
+
+223
+00:10:55,746 --> 00:10:57,833
+moesten we de gemeenschap betrekken
+
+224
+00:10:57,833 --> 00:11:00,291
+bij het vinden van een oplossing
+
+225
+00:11:00,292 --> 00:11:03,335
+en we begonnen een
+participatief ontwerpproces.
+
+226
+00:11:03,335 --> 00:11:06,416
+(Spaanstalige video) Luidspreker:
+Wat voor stad willen jullie?
+
+227
+00:11:06,416 --> 00:11:07,958
+Stem voor Constitución.
+
+228
+00:11:07,957 --> 00:11:10,722
+Ga naar het Open Huis en geef je mening.
+
+229
+00:11:10,722 --> 00:11:12,435
+Doe mee!
+
+230
+00:11:12,436 --> 00:11:14,509
+Visser: Ik ben visser.
+
+231
+00:11:14,509 --> 00:11:16,389
+Ik heb 25 vissers in dienst.
+
+232
+00:11:16,389 --> 00:11:18,957
+Waar moet ik ze mee naar toe nemen?
+Naar het bos?
+
+233
+00:11:18,957 --> 00:11:22,342
+Man: Waarom kunnen
+we geen betonnen wal krijgen?
+
+234
+00:11:22,342 --> 00:11:24,250
+Een echt goede natuurlijk.
+
+235
+00:11:24,250 --> 00:11:26,630
+Man 2: Ik ben de geschiedenis
+van Constitución.
+
+236
+00:11:26,630 --> 00:11:29,721
+En je komt mij vertellen dat
+ik hier niet kan blijven wonen?
+
+237
+00:11:29,721 --> 00:11:31,788
+Mijn hele familie heeft hier gewoond,
+
+238
+00:11:31,788 --> 00:11:33,770
+ik heb mijn kinderen hier grootgebracht
+
+239
+00:11:33,770 --> 00:11:35,855
+en mijn kinderen zullen hetzelfde doen
+
+240
+00:11:35,855 --> 00:11:38,364
+en mijn kleinkinderen en verder iedereen.
+
+241
+00:11:38,364 --> 00:11:40,889
+Maar waarom legt u me dit op?
+
+242
+00:11:40,889 --> 00:11:42,766
+U! U legt me dit op!
+
+243
+00:11:42,767 --> 00:11:44,558
+Ik mag niet bouwen in een gevaarzone.
+
+244
+00:11:44,557 --> 00:11:46,144
+Dat zegt hij zelf.
+
+245
+00:11:46,144 --> 00:11:48,230
+Man 3: Nee, nee, nee, Nieves...
+
+246
+00:11:50,940 --> 00:11:52,808
+Alejandro Aravena: Ik weet niet
+
+247
+00:11:52,807 --> 00:11:55,023
+of je de ondertitels hebt kunnen lezen,
+
+248
+00:11:55,023 --> 00:11:57,157
+maar aan de lichaamstaal kun je aflezen
+
+249
+00:11:57,157 --> 00:11:58,645
+dat participatief ontwerpen
+
+250
+00:11:58,644 --> 00:12:00,499
+geen hippie, romantisch,
+
+251
+00:12:00,499 --> 00:12:04,300
+laten-we-allemaal-tesamen-dromen
+-over-de-toekomst-van-de-stad-
+
+252
+00:12:04,299 --> 00:12:06,076
+verhaal is.
+
+253
+00:12:06,076 --> 00:12:09,570
+Eigenlijk is het - (Applaus)
+
+254
+00:12:09,570 --> 00:12:12,090
+niet eens aan de gezinnen
+
+255
+00:12:12,090 --> 00:12:15,016
+om het goede antwoord te vinden.
+
+256
+00:12:15,015 --> 00:12:17,288
+Het is vooral erachter komen
+
+257
+00:12:17,288 --> 00:12:19,318
+wat de juiste vraag is.
+
+258
+00:12:19,318 --> 00:12:22,406
+Er is niks erger
+dan het juist beantwoorden
+
+259
+00:12:22,407 --> 00:12:24,091
+van de verkeerde vraag.
+
+260
+00:12:24,091 --> 00:12:27,409
+Na dit proces was het overduidelijk:
+
+261
+00:12:27,409 --> 00:12:30,650
+óf we vluchten hier weg,
+
+262
+00:12:30,650 --> 00:12:33,226
+omdat de spanning te hoog oploopt,
+
+263
+00:12:33,226 --> 00:12:35,543
+of we gaan nog verder door met bevragen
+
+264
+00:12:35,543 --> 00:12:37,187
+wat hen nog meer dwars zit.
+
+265
+00:12:37,187 --> 00:12:38,691
+Welke andere problemen
+
+266
+00:12:38,691 --> 00:12:41,273
+kunnen wij voor je oplossen,
+
+267
+00:12:41,273 --> 00:12:45,165
+nu de hele stad opnieuw
+moet worden bedacht?
+
+268
+00:12:46,034 --> 00:12:47,510
+Ze zeiden:
+
+269
+00:12:47,510 --> 00:12:50,576
+prima, om de stad tegen nieuwe
+tsunami's te beschermen,
+
+270
+00:12:50,576 --> 00:12:55,333
+dat stellen we zeer op prijs, maar
+de volgende komt over een jaar of twintig?
+
+271
+00:12:55,333 --> 00:12:57,766
+Ieder jaar kampen we echter
+
+272
+00:12:57,767 --> 00:13:00,290
+met overstromingen door regen.
+
+273
+00:13:00,289 --> 00:13:02,490
+Bovendien zitten we midden
+
+274
+00:13:02,490 --> 00:13:04,288
+in het bosgebied van het land
+
+275
+00:13:04,288 --> 00:13:07,109
+en onze openbare ruimte is waardeloos.
+
+276
+00:13:07,109 --> 00:13:10,900
+Die is armzalig en schaars.
+
+277
+00:13:10,899 --> 00:13:13,483
+En de oorsprong van de stad,
+onze identiteit,
+
+278
+00:13:13,484 --> 00:13:16,370
+is niet verbonden met
+de ingestorte gebouwen,
+
+279
+00:13:16,370 --> 00:13:17,984
+maar met de rivier.
+
+280
+00:13:17,984 --> 00:13:20,798
+Maar de rivier is niet
+publiek toegankelijk,
+
+281
+00:13:20,798 --> 00:13:24,500
+omdat de oevers in privébezit zijn.
+
+282
+00:13:24,500 --> 00:13:29,302
+Dus wilden we een derde
+alternatief ontwikkelen.
+
+283
+00:13:29,302 --> 00:13:33,846
+Onze benadering was:
+tegen geografische bedreigingen
+
+284
+00:13:33,846 --> 00:13:37,466
+staan geografische oplossingen.
+
+285
+00:13:37,466 --> 00:13:41,254
+Wat als tussen de stad ...
+
+286
+00:13:43,600 --> 00:13:45,983
+... en de zee ...
+
+287
+00:13:48,590 --> 00:13:51,768
+... een bos komt
+
+288
+00:13:51,768 --> 00:13:53,824
+dat niet probeert
+
+289
+00:13:53,823 --> 00:13:56,211
+de natuurkrachten te weerstaan,
+
+290
+00:13:56,211 --> 00:14:00,270
+maar die vernietigt door wrijving?
+
+291
+00:14:00,270 --> 00:14:04,163
+Een bos dat het water kan lamineren
+
+292
+00:14:04,163 --> 00:14:06,514
+en overstroming voorkomt?
+
+293
+00:14:06,514 --> 00:14:11,598
+Dit zorgt eindelijk voor
+de ontbeerde openbare ruimte
+
+294
+00:14:11,599 --> 00:14:14,242
+en kan eindelijk zorgen
+
+295
+00:14:14,241 --> 00:14:16,659
+voor publieke toegang tot de rivier.
+
+296
+00:14:16,659 --> 00:14:19,600
+Het participatieve ontwerpproces
+werd afgesloten
+
+297
+00:14:19,600 --> 00:14:22,604
+met een alternatief dat politiek
+en sociaal werd bekrachtigd.
+
+298
+00:14:22,604 --> 00:14:25,715
+Alleen was er nog het kostenprobleem:
+
+299
+00:14:25,715 --> 00:14:28,918
+48 miljoen dollar.
+
+300
+00:14:28,918 --> 00:14:31,322
+Toen hebben we een onderzoek gedaan
+
+301
+00:14:31,322 --> 00:14:33,875
+in het overheidsinvesteringensysteem
+
+302
+00:14:33,875 --> 00:14:36,190
+en kwamen erachter dat drie ministeries,
+
+303
+00:14:36,190 --> 00:14:39,333
+drie projecten hadden
+op precies dezelfde plek,
+
+304
+00:14:39,332 --> 00:14:42,297
+onwetende van het bestaan
+van de andere projecten.
+
+305
+00:14:42,297 --> 00:14:46,494
+Het totaal ervan bedroeg
+52 miljoen dollar.
+
+306
+00:14:46,494 --> 00:14:49,310
+Dus de ontwerpkracht van synthese
+
+307
+00:14:49,309 --> 00:14:51,425
+is om te proberen efficiënter om te gaan
+
+308
+00:14:51,426 --> 00:14:54,283
+met het meest schaarse middel in steden.
+
+309
+00:14:54,283 --> 00:14:57,696
+Dat is niet geld, maar coördinatie.
+
+310
+00:14:57,696 --> 00:15:00,478
+Door dit zo te doen konden we
+
+311
+00:15:00,477 --> 00:15:03,319
+vier miljoen dollar bezuinigen
+en dit is waarom het bos
+
+312
+00:15:03,320 --> 00:15:05,860
+op dit moment wordt aangelegd.
+
+313
+00:15:05,860 --> 00:15:09,515
+(Applaus)
+
+314
+00:15:09,515 --> 00:15:13,139
+De kracht van zelfbouw,
+
+315
+00:15:13,139 --> 00:15:16,245
+de kracht van het gezonde verstand,
+
+316
+00:15:16,245 --> 00:15:18,509
+en de kracht van de natuur
+
+317
+00:15:18,509 --> 00:15:22,780
+moeten allemaal
+in een vorm worden gegoten.
+
+318
+00:15:22,780 --> 00:15:26,056
+Die vorm bestaat niet
+
+319
+00:15:26,057 --> 00:15:29,387
+uit cement, stenen of hout.
+
+320
+00:15:29,386 --> 00:15:31,921
+Die vorm is het leven zelf.
+
+321
+00:15:31,922 --> 00:15:34,610
+Het ontwerpproces van de synthese
+
+322
+00:15:34,610 --> 00:15:36,680
+is slechts een poging
+
+323
+00:15:36,679 --> 00:15:40,311
+om in het hart van de architectuur
+
+324
+00:15:40,312 --> 00:15:42,180
+levenskracht te brengen.
+
+325
+00:15:42,179 --> 00:15:43,598
+Hartelijk bedankt.
+
+326
+00:15:43,599 --> 00:15:46,410
+(Applaus)
+

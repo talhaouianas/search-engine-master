@@ -1,0 +1,2 @@
+#no_root_squash : permet d'autoriser root à lire et écrire dans le dossier partagé 
+/home 196.17.6.0/28(rw,sync,no_subtree_check,no_root_squash)

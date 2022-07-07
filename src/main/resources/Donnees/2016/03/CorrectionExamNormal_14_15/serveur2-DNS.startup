@@ -1,0 +1,7 @@
+ifconfig eth0 192.168.1.2 up
+
+#Ajout de la passerelle par défaut
+route add default gw 192.168.1.1 
+
+#Démarrage du serveur BIND (DNS)
+/etc/init.d/bind9 start

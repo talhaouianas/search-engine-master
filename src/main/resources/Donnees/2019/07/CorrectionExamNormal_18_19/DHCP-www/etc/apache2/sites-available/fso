@@ -1,0 +1,6 @@
+#Site virtuel par @IP
+<VirtualHost 17.6.19.1:80>
+    DocumentRoot /var/www/fso
+    ServerName  fso.ump.ma
+	ServerAlias	www.fso.ump.ma
+</VirtualHost>

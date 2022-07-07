@@ -1,0 +1,17 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	smi6.net. dns.smi6.net. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+	IN	A	192.168.1.3
+;
+@	IN	NS	dns.smi6.net.
+dns	IN	A	192.168.1.2
+www	IN	A	192.168.1.3
+dhcp    IN      A       192.168.1.1
+serveur1    IN      A       192.168.1.1

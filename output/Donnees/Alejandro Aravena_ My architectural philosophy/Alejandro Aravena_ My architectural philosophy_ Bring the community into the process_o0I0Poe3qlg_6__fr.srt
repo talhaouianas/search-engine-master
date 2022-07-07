@@ -1,0 +1,1419 @@
+﻿1
+00:00:00,000 --> 00:00:12,000
+Traducteur: yasmina ibrahimi
+Relecteur: Morgane Quilfen
+
+2
+00:00:12,689 --> 00:00:15,460
+Si le design possède un seul pouvoir,
+
+3
+00:00:15,461 --> 00:00:17,771
+c'est le pouvoir de synthèse.
+
+4
+00:00:17,771 --> 00:00:19,466
+Plus un problème est complexe,
+
+5
+00:00:19,466 --> 00:00:21,711
+plus il a besoin de simplicité.
+
+6
+00:00:21,710 --> 00:00:24,294
+Alors, permettez-moi
+de partager trois exemples
+
+7
+00:00:24,295 --> 00:00:26,374
+dans lesquels nous
+avons essayé d'appliquer
+
+8
+00:00:26,373 --> 00:00:29,399
+le pouvoir de synthèse
+du design architectural.
+
+9
+00:00:29,399 --> 00:00:33,226
+Commençons par le défi mondial
+de l'urbanisation.
+
+10
+00:00:33,226 --> 00:00:36,754
+C'est un fait que les gens
+se déplacent vers les villes.
+
+11
+00:00:36,755 --> 00:00:40,349
+Et même si cela semble paradoxal,
+c'est une bonne nouvelle.
+
+12
+00:00:40,348 --> 00:00:44,241
+Il a été montré que les gens
+se sentent mieux dans les villes.
+
+13
+00:00:44,241 --> 00:00:46,618
+Mais il y a un probleme que j'appellerais
+
+14
+00:00:46,618 --> 00:00:48,259
+la menace TRI :
+
+15
+00:00:48,259 --> 00:00:51,787
+la taille, la rapidité
+et l'insuffisance des moyens
+
+16
+00:00:51,787 --> 00:00:54,926
+avec lesquels nous devrons
+répondre à ce phénomène
+
+17
+00:00:54,950 --> 00:00:56,929
+n'a aucun précédent dans l'histoire.
+
+18
+00:00:57,439 --> 00:00:58,957
+Pour vous donner une idée,
+
+19
+00:00:58,957 --> 00:01:01,850
+sur 3 milliards de personnes
+habitant en ville aujourd'hui,
+
+20
+00:01:01,893 --> 00:01:05,358
+1 milliard vit sous le seuil
+de pauvreté.
+
+21
+00:01:05,358 --> 00:01:11,453
+D'ici 2030, sur 5 milliards de personnes
+qui vivront dans les villes,
+
+22
+00:01:11,480 --> 00:01:14,837
+2 milliards vivront
+sous le seuil de pauvreté.
+
+23
+00:01:14,837 --> 00:01:19,266
+Ça signifie qu'il faudra construire
+
+24
+00:01:21,605 --> 00:01:28,445
+une ville d'un million d'habitants
+chaque semaine
+
+25
+00:01:30,114 --> 00:01:35,671
+avec 10 000 dollars par famille
+
+26
+00:01:35,671 --> 00:01:37,481
+pendant les 15 prochaines années.
+
+27
+00:01:37,481 --> 00:01:40,206
+Une ville d'un million d'habitants
+chaque semaine
+
+28
+00:01:40,206 --> 00:01:42,329
+avec 10 000 dollars par famille.
+
+29
+00:01:42,329 --> 00:01:46,418
+Ne pas résoudre cette équation n'empêchera
+pas les gens de venir dans les villes.
+
+30
+00:01:46,418 --> 00:01:48,349
+Ils viendront de toute façon,
+
+31
+00:01:48,349 --> 00:01:52,570
+mais ils vivront dans des bidonvilles,
+des favelas et des logements de fortune.
+
+32
+00:01:52,575 --> 00:01:53,595
+Alors, que faire ?
+
+33
+00:01:53,596 --> 00:01:59,656
+Eh bien, la réponse pourrait venir
+des favelas et des bidonvilles eux-mêmes.
+
+34
+00:01:59,840 --> 00:02:04,876
+Un indice se trouve peut-être
+dans cette question posée il y a dix ans.
+
+35
+00:02:04,890 --> 00:02:08,520
+On nous a demandé de loger 100 familles
+
+36
+00:02:08,520 --> 00:02:10,938
+qui occupaient illégalement
+
+37
+00:02:10,938 --> 00:02:16,123
+un demi-hectare dans le centre ville
+d'Iquique, dans le nord du Chili,
+
+38
+00:02:16,133 --> 00:02:19,061
+utilisant 10 000 dollars
+de subvention,
+
+39
+00:02:19,062 --> 00:02:22,176
+avec lesquels nous avions dû
+acheter les terrains,
+
+40
+00:02:22,175 --> 00:02:23,908
+fournir l'infrastructure,
+
+41
+00:02:23,908 --> 00:02:27,229
+et construire les maisons qui,
+dans le meilleur des cas,
+
+42
+00:02:27,229 --> 00:02:30,893
+feraient environ 40 mètres carrés.
+
+43
+00:02:30,894 --> 00:02:33,099
+Et, au fait, disaient-ils,
+
+44
+00:02:33,098 --> 00:02:34,750
+le coût des terrains,
+
+45
+00:02:34,750 --> 00:02:36,806
+comme c'est au centre ville,
+
+46
+00:02:36,806 --> 00:02:38,550
+est trois fois plus élevé
+
+47
+00:02:38,550 --> 00:02:42,108
+que le coût normal d'un habitat social.
+
+48
+00:02:42,108 --> 00:02:44,334
+À cause de la difficulté de la question,
+
+49
+00:02:44,334 --> 00:02:46,515
+nous avons décidé d'inclure les familles
+
+50
+00:02:46,515 --> 00:02:50,611
+dans le processus menant à comprendre
+ces contraintes,
+
+51
+00:02:50,611 --> 00:02:53,407
+et nous avons mis en route
+un projet de groupe dans lequel
+
+52
+00:02:53,407 --> 00:02:56,634
+nous avons testé ce qui était
+disponible sur le marché.
+
+53
+00:02:56,824 --> 00:02:58,537
+Avec des maisons individuelles,
+
+54
+00:02:58,538 --> 00:03:01,493
+30 familles pouvaient être logées.
+
+55
+00:03:01,493 --> 00:03:05,455
+Avec des maisons mitoyennes,
+60 familles.
+
+56
+00:03:05,455 --> 00:03:08,597
+La seule façon de loger
+les 100 familles
+
+57
+00:03:08,598 --> 00:03:10,920
+c'était de construire en hauteur,
+
+58
+00:03:10,919 --> 00:03:12,551
+mais ils nous ont menacés
+
+59
+00:03:12,551 --> 00:03:14,859
+de faire la grève de la faim
+
+60
+00:03:14,860 --> 00:03:18,578
+si nous osions seulement proposer
+une telle solution,
+
+61
+00:03:18,584 --> 00:03:23,085
+car ils ne pourraient pas agrandir
+leurs appartements minuscules.
+
+62
+00:03:23,109 --> 00:03:25,588
+Alors la conclusion avec les familles -
+
+63
+00:03:25,587 --> 00:03:27,906
+et c'est important,
+ce n'est pas la nôtre -
+
+64
+00:03:27,907 --> 00:03:30,236
+était qu'on avait un problème.
+
+65
+00:03:30,235 --> 00:03:31,840
+Il fallait que nous innovions.
+
+66
+00:03:31,944 --> 00:03:34,610
+Alors, qu'avons-nous fait ?
+
+67
+00:03:35,719 --> 00:03:44,688
+Une famille de classe moyenne vit
+relativement bien dans environ 80 m²,
+
+68
+00:03:44,849 --> 00:03:46,521
+mais quand il n'y a pas d'argent,
+
+69
+00:03:46,521 --> 00:03:47,864
+ce que le marché fait,
+
+70
+00:03:47,864 --> 00:03:54,822
+c'est réduire la taille
+de la maison à 40 m².
+
+71
+00:03:54,971 --> 00:03:56,718
+Ce que nous avons dit,
+
+72
+00:03:56,718 --> 00:03:59,239
+et si,
+
+73
+00:04:00,844 --> 00:04:07,237
+au lieu de voir les 40 m²
+comme une petite maison,
+
+74
+00:04:08,058 --> 00:04:12,544
+nous les considérions
+comme la moitié d'une grande ?
+
+75
+00:04:13,191 --> 00:04:14,957
+Quand on reformule le problème
+
+76
+00:04:14,957 --> 00:04:19,243
+comme la moitié d'une grande maison
+au lieu d'une petite,
+
+77
+00:04:19,298 --> 00:04:22,507
+la question principale est :
+quelle moitié fait-on ?
+
+78
+00:04:22,507 --> 00:04:25,713
+Et nous avons pensé que nous devions
+faire avec l'argent de l’État
+
+79
+00:04:25,713 --> 00:04:29,793
+la moitié que les familles ne pourront
+pas faire individuellement.
+
+80
+00:04:30,608 --> 00:04:32,849
+Nous avons identifié
+5 conditions de conception
+
+81
+00:04:33,146 --> 00:04:35,504
+qui appartenaient à la moitié « dure »,
+
+82
+00:04:35,504 --> 00:04:38,600
+et nous sommes retournés vers les familles
+pour faire 2 choses :
+
+83
+00:04:38,600 --> 00:04:42,600
+unir les forces et répartir les tâches.
+
+84
+00:04:42,600 --> 00:04:45,584
+Notre concept était quelque chose
+
+85
+00:04:45,584 --> 00:04:48,264
+entre un immeuble et une maison.
+
+86
+00:04:48,264 --> 00:04:50,356
+En tant qu'immeuble, il rentabiliserait
+
+87
+00:04:50,357 --> 00:04:53,349
+le terrain coûteux et bien situé,
+
+88
+00:04:53,348 --> 00:04:56,969
+et en tant que maison,
+il serait extensible.
+
+89
+00:04:56,970 --> 00:04:59,554
+Si, au cours du processus
+de non-expulsion
+
+90
+00:04:59,553 --> 00:05:01,919
+vers la périphérie,
+tout en ayant une maison,
+
+91
+00:05:01,920 --> 00:05:04,733
+les familles gardaient
+leur réseau social et leur travail,
+
+92
+00:05:04,733 --> 00:05:08,980
+nous savions que cette extension
+commencerait tout de suite.
+
+93
+00:05:08,980 --> 00:05:13,536
+Donc, nous sommes passés
+de ce logement social initial
+
+94
+00:05:13,536 --> 00:05:17,930
+à une unité pour la classe moyenne
+finie par les familles elles-mêmes
+
+95
+00:05:17,930 --> 00:05:20,665
+en quelques semaines.
+
+96
+00:05:20,665 --> 00:05:22,439
+Ce fut notre premier projet
+
+97
+00:05:22,439 --> 00:05:24,766
+à Iquique, il y a 10 ans.
+
+98
+00:05:24,766 --> 00:05:28,242
+Ceci est notre dernier projet au Chili.
+
+99
+00:05:28,242 --> 00:05:29,572
+Les modèles sont différents
+
+100
+00:05:29,572 --> 00:05:31,193
+mais le principe est le même :
+
+101
+00:05:31,194 --> 00:05:32,759
+vous fournissez le cadre,
+
+102
+00:05:32,759 --> 00:05:36,598
+et à partir de là, les familles
+prennent le relai.
+
+103
+00:05:37,627 --> 00:05:45,327
+Le but est d'essayer de comprendre
+et de répondre à la menace du TRI :
+
+104
+00:05:45,360 --> 00:05:47,800
+taille , rapidité et
+insuffisance de moyens,
+
+105
+00:05:47,800 --> 00:05:50,923
+en utilisant la capacité des gens
+à construire.
+
+106
+00:05:50,940 --> 00:05:54,722
+On ne résoudra pas l'équation
+du million de personnes par semaine
+
+107
+00:05:54,723 --> 00:05:58,429
+à moins d'utiliser l'aptitude
+des gens à construire.
+
+108
+00:05:59,367 --> 00:06:01,597
+Donc, avec le bon plan,
+
+109
+00:06:01,634 --> 00:06:05,035
+les bidonvilles et les favelas
+ne sont peut-être pas le problème
+
+110
+00:06:05,035 --> 00:06:08,784
+mais bien la seule solution possible.
+
+111
+00:06:08,783 --> 00:06:11,819
+Le deuxième cas montre
+comment la conception peut contribuer
+
+112
+00:06:11,819 --> 00:06:13,871
+au développement durable.
+
+113
+00:06:13,870 --> 00:06:16,263
+En 2012, nous avons participé
+au concours
+
+114
+00:06:16,264 --> 00:06:18,829
+pour le Angelini Innovation Center,
+
+115
+00:06:18,829 --> 00:06:20,841
+et le but était de construire
+
+116
+00:06:20,841 --> 00:06:25,175
+l'environnement adéquat
+pour la création du savoir.
+
+117
+00:06:25,175 --> 00:06:27,659
+Il paraît évident que pour un tel sujet,
+
+118
+00:06:27,660 --> 00:06:29,196
+la création de savoir,
+
+119
+00:06:29,196 --> 00:06:31,783
+l'interaction entre les gens,
+le contact face-à-face,
+
+120
+00:06:31,783 --> 00:06:33,980
+c'est important, et nous étions d'accord.
+
+121
+00:06:33,980 --> 00:06:37,556
+Mais pour nous, la question
+de l'environnement adéquat
+
+122
+00:06:37,555 --> 00:06:39,721
+était une question littérale.
+
+123
+00:06:39,721 --> 00:06:41,841
+Nous voulions un espace de travail
+
+124
+00:06:41,841 --> 00:06:44,594
+avec une bonne luminosité,
+une bonne température,
+
+125
+00:06:44,595 --> 00:06:46,477
+une bonne atmosphère.
+
+126
+00:06:46,476 --> 00:06:48,554
+Donc nous nous sommes demandés :
+
+127
+00:06:48,555 --> 00:06:51,144
+l'immeuble de bureau traditionnel
+
+128
+00:06:51,144 --> 00:06:53,255
+nous aide-t-il en ce sens ?
+
+129
+00:06:53,255 --> 00:06:56,869
+En fait, à quoi ressemble
+un tel bâtiment, typiquement ?
+
+130
+00:06:56,870 --> 00:06:59,454
+C'est une collection d'étages,
+
+131
+00:06:59,454 --> 00:07:01,360
+empilés les uns sur les autres,
+
+132
+00:07:01,360 --> 00:07:04,401
+avec un noyau au centre
+
+133
+00:07:04,401 --> 00:07:09,090
+avec des ascenseurs, des escaliers,
+des tuyaux, des câbles, et tout ça,
+
+134
+00:07:09,089 --> 00:07:12,676
+et puis une peau en verre à l'extérieur
+
+135
+00:07:12,677 --> 00:07:16,552
+qui, avec l'exposition directe
+aux radiations émises par le soleil,
+
+136
+00:07:16,552 --> 00:07:21,761
+crée un énorme effet de serre
+à l'intérieur.
+
+137
+00:07:21,761 --> 00:07:25,445
+En plus de cela, imaginons quelqu'un
+travaillant au septième étage,
+
+138
+00:07:25,444 --> 00:07:28,141
+qui passe tous les jours
+par le troisième étage,
+
+139
+00:07:28,141 --> 00:07:31,180
+mais n'a aucune idée
+de ce sur quoi travaille
+
+140
+00:07:31,180 --> 00:07:32,908
+le type du troisième.
+
+141
+00:07:32,908 --> 00:07:36,305
+Alors, nous avons pensé que peut-être
+nous devions retourner cette peau
+
+142
+00:07:36,305 --> 00:07:38,105
+comme un gant.
+
+143
+00:07:38,105 --> 00:07:39,927
+Ce que nous avons fait, c'est
+
+144
+00:07:39,927 --> 00:07:44,110
+d'avoir un atrium ouvert,
+
+145
+00:07:44,110 --> 00:07:45,999
+un noyau creux,
+
+146
+00:07:45,999 --> 00:07:47,612
+la même collection d'étages,
+
+147
+00:07:47,612 --> 00:07:52,052
+mais avec les murs
+et la masse en périphérie,
+
+148
+00:07:52,052 --> 00:07:56,317
+de sorte que
+lorsque le soleil tape,
+
+149
+00:07:56,317 --> 00:08:01,071
+il n'a pas d'impact direct
+sur les vitres, mais sur le mur.
+
+150
+00:08:02,225 --> 00:08:05,181
+Quand vous avez un atrium ouvert
+à l'intérieur,
+
+151
+00:08:05,180 --> 00:08:08,509
+vous pouvez voir, de l'intérieur
+du bâtiment, ce que les autres font,
+
+152
+00:08:08,509 --> 00:08:11,613
+et vous avez un meilleur
+contrôle de la luminosité,
+
+153
+00:08:11,613 --> 00:08:14,782
+et quand vous placez la masse
+
+154
+00:08:14,783 --> 00:08:16,439
+et les murs en périphérie,
+
+155
+00:08:16,439 --> 00:08:19,872
+vous empêchez la radiation
+solaire directe.
+
+156
+00:08:19,872 --> 00:08:21,792
+Vous pouvez aussi ouvrir ces fenêtres
+
+157
+00:08:21,791 --> 00:08:24,687
+pour avoir une ventilation croisée.
+
+158
+00:08:24,687 --> 00:08:27,622
+Nous avons simplement créé
+ces ouvertures
+
+159
+00:08:27,622 --> 00:08:29,714
+à une telle échelle
+qu'elles pourraient
+
+160
+00:08:29,714 --> 00:08:31,727
+fonctionner comme
+des cours surélevées,
+
+161
+00:08:31,728 --> 00:08:33,471
+des espaces en plein air
+
+162
+00:08:33,471 --> 00:08:37,134
+sur toute la hauteur du bâtiment.
+
+163
+00:08:37,134 --> 00:08:38,984
+Rien de ceci n'est sorcier.
+
+164
+00:08:38,984 --> 00:08:41,682
+On n'a pas besoin
+de programmation sophistiquée.
+
+165
+00:08:41,682 --> 00:08:44,610
+Ce n'est pas une question de technologie.
+
+166
+00:08:44,610 --> 00:08:48,837
+C'est juste du bon sens
+primaire et archaïque,
+
+167
+00:08:48,837 --> 00:08:50,805
+et en utilisant ce bon sens,
+
+168
+00:08:50,806 --> 00:08:53,787
+on est passé de 120 kilowatts
+
+169
+00:08:53,787 --> 00:08:56,127
+par mètre carré par an,
+
+170
+00:08:56,126 --> 00:08:58,298
+ce qui est la consommation
+d'énergie typique
+
+171
+00:08:58,298 --> 00:09:00,289
+pour rafraîchir une tour en verre,
+
+172
+00:09:00,289 --> 00:09:04,620
+à 40 kilowatts par mètre carré par an.
+
+173
+00:09:04,620 --> 00:09:06,897
+Donc avec la bonne conception,
+
+174
+00:09:06,897 --> 00:09:09,441
+le développement durable
+n'est rien d'autre,
+
+175
+00:09:09,441 --> 00:09:13,173
+que l'usage rigoureux du bon sens.
+
+176
+00:09:13,173 --> 00:09:16,826
+Le dernier cas que je voudrais vous faire
+partager est comment la conception
+
+177
+00:09:16,826 --> 00:09:18,825
+peut apporter des solutions
+plus complètes
+
+178
+00:09:18,825 --> 00:09:20,754
+aux catastrophes naturelles.
+
+179
+00:09:20,820 --> 00:09:24,030
+Vous savez peut-être qu'en 2010
+
+180
+00:09:24,029 --> 00:09:27,483
+le Chili a été secoué par un séisme
+et un tsunami
+
+181
+00:09:27,541 --> 00:09:29,735
+de 8,8 sur l'échelle de Richter
+
+182
+00:09:29,822 --> 00:09:31,750
+et on nous a demandé de venir travailler
+
+183
+00:09:31,750 --> 00:09:33,660
+à la reconstruction de Constitucion
+
+184
+00:09:33,900 --> 00:09:35,346
+qui se trouve au sud du pays.
+
+185
+00:09:35,836 --> 00:09:38,774
+Nous avions 100 jours, trois mois,
+
+186
+00:09:39,337 --> 00:09:41,262
+pour concevoir pratiquement tout,
+
+187
+00:09:41,263 --> 00:09:43,580
+des bâtiments publics
+aux espaces publics,
+
+188
+00:09:43,580 --> 00:09:45,670
+les rues, les transports, les logements,
+
+189
+00:09:45,669 --> 00:09:48,423
+et surtout pour protéger la ville
+
+190
+00:09:48,423 --> 00:09:50,678
+des prochains tsunamis.
+
+191
+00:09:50,678 --> 00:09:53,828
+C'était nouveau
+dans l'architecture urbaine au Chili,
+
+192
+00:09:53,828 --> 00:09:57,201
+et il y avait plusieurs alternatives
+possibles.
+
+193
+00:09:57,201 --> 00:09:58,453
+La première :
+
+194
+00:09:58,453 --> 00:10:01,102
+interdire l'installation
+près de l'épicentre.
+
+195
+00:10:01,102 --> 00:10:03,139
+30 millions de dollars
+dépensés
+
+196
+00:10:03,139 --> 00:10:05,524
+principalement en expropriation.
+
+197
+00:10:05,524 --> 00:10:08,785
+C'est exactement
+ce dont on discute actuellement au Japon.
+
+198
+00:10:08,785 --> 00:10:10,832
+Et si vous avez une population disciplinée
+
+199
+00:10:10,832 --> 00:10:13,173
+comme les Japonais,
+ça peut fonctionner,
+
+200
+00:10:13,173 --> 00:10:14,658
+mais nous savons qu'au Chili,
+
+201
+00:10:14,658 --> 00:10:18,471
+les terrains seront occupés
+illégalement de toute façon,
+
+202
+00:10:18,471 --> 00:10:22,543
+donc cette alternative était
+irréaliste et peu souhaitable.
+
+203
+00:10:22,543 --> 00:10:25,936
+Deuxième alternative :
+construire un grand mur,
+
+204
+00:10:25,936 --> 00:10:28,253
+une infrastructure lourde pour résister
+
+205
+00:10:28,253 --> 00:10:30,195
+à la puissance des vagues.
+
+206
+00:10:30,195 --> 00:10:32,314
+Cette alternative a été
+habilement défendue
+
+207
+00:10:32,313 --> 00:10:34,361
+par les grandes entreprises de BTP,
+
+208
+00:10:34,361 --> 00:10:37,428
+parce que ça signifiait 42 millions
+de dollars en contrats,
+
+209
+00:10:37,875 --> 00:10:40,451
+et était aussi politiquement préférable
+
+210
+00:10:40,941 --> 00:10:44,700
+parce qu'elle ne nécessitait
+aucune expropriation.
+
+211
+00:10:44,215 --> 00:10:46,927
+Mais le Japon a prouvé
+qu'essayer de résister
+
+212
+00:10:46,975 --> 00:10:49,562
+aux forces de la nature est inutile.
+
+213
+00:10:50,288 --> 00:10:52,943
+Donc cette alternative
+était irresponsable.
+
+214
+00:10:53,640 --> 00:10:55,748
+Comme dans le processus pour
+le logement,
+
+215
+00:10:55,749 --> 00:10:57,627
+nous devions inclure la communauté
+
+216
+00:10:57,626 --> 00:11:00,269
+pour trouver une solution,
+
+217
+00:11:00,980 --> 00:11:03,933
+et nous avons commencé un processus
+de conception collective.
+
+218
+00:11:04,144 --> 00:11:07,417
+(Vidéo en Espagnol) Haut-parleur :
+Quelle type de ville voulez-vous ?
+
+219
+00:11:07,417 --> 00:11:08,589
+Votez pour Constitución.
+
+220
+00:11:08,589 --> 00:11:11,430
+Allez au Conseil Municipal et
+exprimez vos opinions.
+
+221
+00:11:11,429 --> 00:11:12,513
+Participez !
+
+222
+00:11:12,514 --> 00:11:14,509
+Pêcheur : Je suis un pêcheur.
+
+223
+00:11:14,509 --> 00:11:16,619
+25 pêcheurs travaillent pour moi.
+
+224
+00:11:16,619 --> 00:11:18,958
+Où je dois les emmener ? dans la forêt ?
+
+225
+00:11:18,957 --> 00:11:22,342
+Un homme : pourquoi ne peut-on pas
+avoir une digue en béton?
+
+226
+00:11:22,342 --> 00:11:24,250
+Bien faite, bien sûr.
+
+227
+00:11:24,250 --> 00:11:26,679
+Un autre homme :
+Je suis l'histoire de Constitución.
+
+228
+00:11:26,679 --> 00:11:29,901
+Et vous venez ici me dire que
+je ne peux pas continuer à vivre ici ?
+
+229
+00:11:30,111 --> 00:11:32,141
+Toute ma famille a vécu ici,
+
+230
+00:11:32,307 --> 00:11:33,764
+j'y ai élevé mes enfants,
+
+231
+00:11:33,764 --> 00:11:35,797
+et mes enfants y élèveront
+aussi les leurs.
+
+232
+00:11:35,876 --> 00:11:38,253
+Et mes petits-enfants
+et tous les autres le feront.
+
+233
+00:11:38,350 --> 00:11:40,590
+Mais pourquoi m'imposez-vous cela ?
+
+234
+00:11:40,886 --> 00:11:42,409
+Vous ! Vous m'imposez cela !
+
+235
+00:11:42,767 --> 00:11:45,214
+Je ne peux pas construire
+dans une zone dangereuse.
+
+236
+00:11:45,214 --> 00:11:46,145
+Il le dit lui-même.
+
+237
+00:11:46,144 --> 00:11:48,230
+Un autre homme : Non, non, non, Nieves...
+
+238
+00:11:50,940 --> 00:11:53,228
+Je ne sais pas si vous avez pu
+
+239
+00:11:53,227 --> 00:11:55,512
+lire les sous-titres, mais vous voyez
+
+240
+00:11:55,513 --> 00:11:57,157
+d'après le langage corporel,
+
+241
+00:11:57,157 --> 00:11:58,465
+que la conception de groupe
+
+242
+00:11:58,465 --> 00:12:00,759
+n'est pas une chose hippie
+romantique,
+
+243
+00:12:00,759 --> 00:12:04,009
+allons-tous-rêver-ensemble
+du-futur-de-la-ville.
+
+244
+00:12:04,009 --> 00:12:06,076
+Ce genre de choses.
+
+245
+00:12:06,076 --> 00:12:09,570
+C'est en fait — (Applaudissements)
+
+246
+00:12:09,570 --> 00:12:12,362
+Ce n'est pas seulement essayer
+de trouver la bonne réponse
+
+247
+00:12:12,361 --> 00:12:15,015
+avec les familles.
+
+248
+00:12:15,015 --> 00:12:17,828
+C'est surtout essayer
+d'identifier avec précision
+
+249
+00:12:17,828 --> 00:12:19,899
+quelle est la bonne question.
+
+250
+00:12:19,899 --> 00:12:21,986
+Il n'y a rien de pire que de bien répondre
+
+251
+00:12:21,986 --> 00:12:24,091
+à la mauvaise question.
+
+252
+00:12:24,091 --> 00:12:27,409
+Donc il était assez clair
+après ce processus
+
+253
+00:12:27,409 --> 00:12:30,940
+qu'ici, soit on se dégonflait
+
+254
+00:12:30,941 --> 00:12:33,417
+et on partait
+car c'était trop tendu,
+
+255
+00:12:33,417 --> 00:12:35,593
+soit on allait plus loin
+et on leur demandait,
+
+256
+00:12:35,592 --> 00:12:37,184
+quoi d'autre vous dérange ?
+
+257
+00:12:37,184 --> 00:12:38,779
+Quels autres problèmes vous avez
+
+258
+00:12:38,779 --> 00:12:41,264
+dont nous devrions nous occuper
+
+259
+00:12:41,264 --> 00:12:44,740
+maintenant que la ville doit être
+entièrement repensée ?
+
+260
+00:12:45,595 --> 00:12:47,791
+Et ce qu'ils ont dit, c'était :
+
+261
+00:12:47,791 --> 00:12:50,385
+pour protéger la ville contre
+les futurs tsunamis,
+
+262
+00:12:50,586 --> 00:12:54,932
+merci beaucoup, mais quand sera
+le prochain, dans 20 ans ?
+
+263
+00:12:55,341 --> 00:12:57,586
+Alors que chaque année,
+nous avons des problèmes
+
+264
+00:12:57,586 --> 00:13:00,197
+d'inondation à cause de la pluie.
+
+265
+00:13:00,197 --> 00:13:02,119
+En plus, nous sommes au milieu
+
+266
+00:13:02,490 --> 00:13:04,288
+de la région forestière du pays,
+
+267
+00:13:04,288 --> 00:13:07,109
+et notre espace public est nul.
+
+268
+00:13:07,109 --> 00:13:10,900
+Il est pauvre et rare.
+
+269
+00:13:10,899 --> 00:13:13,483
+Et l'origine de la ville, notre identité,
+
+270
+00:13:13,484 --> 00:13:16,370
+n'est pas vraiment connectée
+aux immeubles détruits,
+
+271
+00:13:16,370 --> 00:13:17,984
+elle est connectée à la rivière,
+
+272
+00:13:17,984 --> 00:13:20,798
+mais la rivière n'est pas accessible
+au public,
+
+273
+00:13:20,798 --> 00:13:24,500
+parce que ses rives
+sont des propriétés privées.
+
+274
+00:13:24,500 --> 00:13:28,438
+Donc nous avons pensé produire
+une troisième alternative,
+
+275
+00:13:29,801 --> 00:13:33,847
+et notre approche répondait
+aux menaces géographiques,
+
+276
+00:13:33,846 --> 00:13:37,466
+avec des solutions géographiques.
+
+277
+00:13:37,466 --> 00:13:41,956
+Et si, entre la ville
+
+278
+00:13:43,591 --> 00:13:46,585
+et la mer,
+
+279
+00:13:48,594 --> 00:13:50,451
+on a une forêt,
+
+280
+00:13:51,764 --> 00:13:54,335
+une forêt qui n'essaye pas
+de résister
+
+281
+00:13:54,335 --> 00:13:56,228
+aux forces de la nature,
+
+282
+00:13:56,227 --> 00:14:00,252
+mais les disperse en introduisant
+la friction ?
+
+283
+00:14:00,253 --> 00:14:04,155
+Une forêt qui puisse laminer l'eau
+
+284
+00:14:04,154 --> 00:14:06,514
+et prévenir les inondations ?
+
+285
+00:14:06,514 --> 00:14:11,598
+Cela paierait la dette historique
+de l'espace public,
+
+286
+00:14:11,599 --> 00:14:14,242
+et pourrait ensuite produire,
+enfin,
+
+287
+00:14:14,241 --> 00:14:16,659
+un accès démocratique à la rivière.
+
+288
+00:14:16,659 --> 00:14:19,600
+Donc, en conclusion
+à la conception participative,
+
+289
+00:14:19,600 --> 00:14:22,604
+l'alternative a été validée
+politiquement et socialement,
+
+290
+00:14:22,604 --> 00:14:25,715
+mais il restait la question du coût :
+
+291
+00:14:25,715 --> 00:14:28,715
+48 millions de dollars.
+
+292
+00:14:28,918 --> 00:14:31,322
+Alors, nous avons mené une enquête
+
+293
+00:14:31,322 --> 00:14:33,875
+au niveau du système
+des investissements publics,
+
+294
+00:14:33,875 --> 00:14:36,260
+et nous avons trouvé qu'il y avait
+3 ministères
+
+295
+00:14:36,260 --> 00:14:38,991
+avec 3 projets dans le même endroit
+
+296
+00:14:39,230 --> 00:14:41,915
+ignorant l'existence
+des autres projets.
+
+297
+00:14:42,297 --> 00:14:46,634
+Leur montant total :
+52 millions de dollars.
+
+298
+00:14:46,634 --> 00:14:49,622
+Donc, la puissance de synthèse
+de la conception architecturale,
+
+299
+00:14:49,621 --> 00:14:51,849
+c'est d'essayer de faire
+un usage plus efficace
+
+300
+00:14:51,850 --> 00:14:54,283
+de la ressource la plus rare
+dans les villes,
+
+301
+00:14:54,283 --> 00:14:57,696
+qui n'est pas l'argent
+mais la coordination.
+
+302
+00:14:57,696 --> 00:15:00,478
+De cette manière nous avons pu économiser
+
+303
+00:15:00,477 --> 00:15:03,319
+4 millions de dollars, et
+c'est pourquoi la forêt
+
+304
+00:15:03,320 --> 00:15:06,900
+est aujourd'hui en chantier.
+
+305
+00:15:06,899 --> 00:15:09,515
+(Applaudissements)
+
+306
+00:15:09,515 --> 00:15:13,139
+Donc que ce soit
+la force de l'auto-construction,
+
+307
+00:15:13,139 --> 00:15:16,245
+la force du bon sens,
+
+308
+00:15:16,245 --> 00:15:19,350
+ou la force de la nature,
+toutes ces forces
+
+309
+00:15:19,350 --> 00:15:22,781
+doivent être traduites en forme.
+
+310
+00:15:22,780 --> 00:15:26,447
+Et ce que cette forme modèle et dessine
+
+311
+00:15:26,447 --> 00:15:29,677
+n'est pas le ciment, les briques
+ou le bois.
+
+312
+00:15:29,677 --> 00:15:31,822
+C'est la vie elle-même.
+
+313
+00:15:31,822 --> 00:15:34,490
+La puissance de synthèse
+de la conception architecturale,
+
+314
+00:15:34,490 --> 00:15:36,680
+c'est juste une tentative de mettre
+
+315
+00:15:36,679 --> 00:15:40,311
+au plus profond de l'architecture
+
+316
+00:15:40,312 --> 00:15:42,180
+la force de la vie.
+
+317
+00:15:42,179 --> 00:15:44,968
+Merci beaucoup.
+
+318
+00:15:44,969 --> 00:15:48,890
+(Applaudissements)
+

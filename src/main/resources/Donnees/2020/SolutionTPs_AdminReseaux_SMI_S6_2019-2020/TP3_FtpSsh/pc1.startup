@@ -1,0 +1,13 @@
+ifconfig eth0 192.168.1.1 up
+
+
+#création du compte smi
+useradd -m -s /bin/bash  smi
+#affectation du mot de passe smi6-2019 au compte smi
+echo "smi:smi6-2019" | chpasswd
+
+#pour démarrer le serveur FTP
+/etc/init.d/proftpd start
+
+#pour démarrer le serveur SSH
+/etc/init.d/ssh start

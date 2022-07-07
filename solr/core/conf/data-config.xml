@@ -1,0 +1,27 @@
+<dataConfig>
+  <!--
+     Data source de type fichier :
+     https://wiki.apache.org/solr/DataImportHandler#FileListEntityProcessor
+    -->
+  <dataSource type="BinFileDataSource"/>
+  <document>
+    <!--
+       base dir est à adapter.
+       Utilisation des [transformer](https://wiki.apache.org/solr/DataImportHandler#Transformer) pour modifier les données extraite.
+    -->
+    <entity name="files" dataSource="null" rootEntity="false" processor="FileListEntityProcessor" baseDir="/opt/solr/server/solr/mycores/documents2" fileName=".*" recursive="true" onError="skip" transformer="TemplateTransformer,RegexTransformer">
+      <!-- Suppression du chemin relatifs à l'aide RegexTransformer -->
+      <field column="id" regex="/opt/solr/server/solr/mycores/documents2/(.*)" replaceWith="$1" sourceColName="fileAbsolutePath"/>
+      <field column="fileSize" name="size"/>
+      <field column="fileLastModified" name="lastModified"/>
+      <!-- Ajout d'une variable statique au document à l'aide de TemplateTransformer -->
+      <field column="category" template="documents"/>
+      <entity name="documentImport" processor="TikaEntityProcessor" url="${files.fileAbsolutePath}" format="text" >
+        <field column="file" name="fileName"/>
+        <field column="author" name="author" meta="true"/>
+        <field column="title" name="title" meta="true"/>
+        <field column="text" name="text"/>
+      </entity>
+    </entity>
+  </document>
+</dataConfig>

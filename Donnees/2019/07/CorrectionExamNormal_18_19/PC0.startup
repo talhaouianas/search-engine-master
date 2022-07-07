@@ -1,0 +1,7 @@
+/etc/init.d/networking start
+
+#pour démarrer le client NFS
+/etc/init.d/nfs-common start
+
+#pour monter les répertoires qui se trouvent dans le fichier /etc/fstab
+mount  -a

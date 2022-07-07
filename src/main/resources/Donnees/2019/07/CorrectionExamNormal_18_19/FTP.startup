@@ -1,0 +1,9 @@
+#Affectation de l'adresse MAC (b2:90:f1:61:5f:2a) à eth0 
+ifconfig eth0 hw ether b2:90:f1:61:5f:2a
+
+/etc/init.d/networking start
+
+
+#démarrage du serveur FTP
+/etc/init.d/proftpd start
+
