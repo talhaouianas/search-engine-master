@@ -1,10 +1,10 @@
 # You need download:
 
-TIKA (jar version 2.4.0)
+*TIKA (jar version 2.4.0)
 
-Solr (Version 8.11.1 or 9.0.0)
+*Solr (Version 8.11.1 or 9.0.0)
 
-#Pour démarrer le serveur Solr, il suffit de suivez les étapes suivantes via l’invite de commande :
+*Pour démarrer le serveur Solr, il suffit de suivez les étapes suivantes via l’invite de commande :
 
 C:\>cd solr-8.11.1 
 
@@ -12,11 +12,10 @@ C:\solr-8.11.1>cd bin
 
 C:\solr-8.11.1\ bin>solr start -p 8983
 
-#Télécharger Docker via cette l'adresse suivante :
+*Télécharger Docker via cette l'adresse suivante :
 https://docs.docker.com/desktop/windows/install/
 
-Télécharger le package de mise à jour du noyau Linux via le lien ci-dessous :
-https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+Télécharger le package de mise à jour du noyau Linux via le lien ci-dessous : https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
 # Introduction
 
